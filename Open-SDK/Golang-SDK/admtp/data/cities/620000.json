@@ -1,0 +1,74 @@
+{
+    "cities": [
+        {
+            "id": "620100",
+            "zh": "兰州",
+            "en": "Lanzhou"
+        },
+        {
+            "id": "620200",
+            "zh": "嘉峪关",
+            "en": "Jiayuguan"
+        },
+        {
+            "id": "620300",
+            "zh": "金昌",
+            "en": "Jinchang"
+        },
+        {
+            "id": "620400",
+            "zh": "白银",
+            "en": "Baiyin"
+        },
+        {
+            "id": "620500",
+            "zh": "天水",
+            "en": "Tianshui"
+        },
+        {
+            "id": "620600",
+            "zh": "武威",
+            "en": "Wuwei"
+        },
+        {
+            "id": "620700",
+            "zh": "张掖",
+            "en": "Zhangye"
+        },
+        {
+            "id": "620800",
+            "zh": "平凉",
+            "en": "Pingliang"
+        },
+        {
+            "id": "620900",
+            "zh": "酒泉",
+            "en": "Jiuquan"
+        },
+        {
+            "id": "621000",
+            "zh": "庆阳",
+            "en": "Qingyang"
+        },
+        {
+            "id": "621100",
+            "zh": "定西",
+            "en": "Dingxi"
+        },
+        {
+            "id": "621200",
+            "zh": "陇南",
+            "en": "Longnan"
+        },
+        {
+            "id": "622900",
+            "zh": "临夏回族自治州",
+            "en": "Linxiahuizuzizhizhou"
+        },
+        {
+            "id": "623000",
+            "zh": "甘南藏族自治州",
+            "en": "Gannanzangzuzizhizhou"
+        }
+    ]
+}

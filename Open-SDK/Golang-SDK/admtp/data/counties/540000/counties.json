@@ -1,0 +1,374 @@
+{
+    "counties": [
+        {
+            "id": "540102",
+            "zh": "城关区",
+            "en": "Chengguanqu"
+        },
+        {
+            "id": "540103",
+            "zh": "堆龙德庆区",
+            "en": "Duilongdeqingqu"
+        },
+        {
+            "id": "540104",
+            "zh": "达孜区",
+            "en": "Daziqu"
+        },
+        {
+            "id": "540121",
+            "zh": "林周县",
+            "en": "Linzhouxian"
+        },
+        {
+            "id": "540122",
+            "zh": "当雄县",
+            "en": "Dangxiongxian"
+        },
+        {
+            "id": "540123",
+            "zh": "尼木县",
+            "en": "Nimuxian"
+        },
+        {
+            "id": "540124",
+            "zh": "曲水县",
+            "en": "Qushuixian"
+        },
+        {
+            "id": "540127",
+            "zh": "墨竹工卡县",
+            "en": "Mozhugongkaxian"
+        },
+        {
+            "id": "540202",
+            "zh": "桑珠孜区",
+            "en": "Sangzhuziqu"
+        },
+        {
+            "id": "540221",
+            "zh": "南木林县",
+            "en": "Nanmulinxian"
+        },
+        {
+            "id": "540222",
+            "zh": "江孜县",
+            "en": "Jiangzixian"
+        },
+        {
+            "id": "540223",
+            "zh": "定日县",
+            "en": "Dingrixian"
+        },
+        {
+            "id": "540224",
+            "zh": "萨迦县",
+            "en": "Sajiaxian"
+        },
+        {
+            "id": "540225",
+            "zh": "拉孜县",
+            "en": "Lazixian"
+        },
+        {
+            "id": "540226",
+            "zh": "昂仁县",
+            "en": "Angrenxian"
+        },
+        {
+            "id": "540227",
+            "zh": "谢通门县",
+            "en": "Xietongmenxian"
+        },
+        {
+            "id": "540228",
+            "zh": "白朗县",
+            "en": "Bailangxian"
+        },
+        {
+            "id": "540229",
+            "zh": "仁布县",
+            "en": "Renbuxian"
+        },
+        {
+            "id": "540230",
+            "zh": "康马县",
+            "en": "Kangmaxian"
+        },
+        {
+            "id": "540231",
+            "zh": "定结县",
+            "en": "Dingjiexian"
+        },
+        {
+            "id": "540232",
+            "zh": "仲巴县",
+            "en": "Zhongbaxian"
+        },
+        {
+            "id": "540233",
+            "zh": "亚东县",
+            "en": "Yadongxian"
+        },
+        {
+            "id": "540234",
+            "zh": "吉隆县",
+            "en": "Jilongxian"
+        },
+        {
+            "id": "540235",
+            "zh": "聂拉木县",
+            "en": "Nielamuxian"
+        },
+        {
+            "id": "540236",
+            "zh": "萨嘎县",
+            "en": "Sagaxian"
+        },
+        {
+            "id": "540237",
+            "zh": "岗巴县",
+            "en": "Gangbaxian"
+        },
+        {
+            "id": "540302",
+            "zh": "卡若区",
+            "en": "Karuoqu"
+        },
+        {
+            "id": "540321",
+            "zh": "江达县",
+            "en": "Jiangdaxian"
+        },
+        {
+            "id": "540322",
+            "zh": "贡觉县",
+            "en": "Gongjuexian"
+        },
+        {
+            "id": "540323",
+            "zh": "类乌齐县",
+            "en": "Leiwuqixian"
+        },
+        {
+            "id": "540324",
+            "zh": "丁青县",
+            "en": "Dingqingxian"
+        },
+        {
+            "id": "540325",
+            "zh": "察雅县",
+            "en": "Chayaxian"
+        },
+        {
+            "id": "540326",
+            "zh": "八宿县",
+            "en": "Basuxian"
+        },
+        {
+            "id": "540327",
+            "zh": "左贡县",
+            "en": "Zuogongxian"
+        },
+        {
+            "id": "540328",
+            "zh": "芒康县",
+            "en": "Mangkangxian"
+        },
+        {
+            "id": "540329",
+            "zh": "洛隆县",
+            "en": "Luolongxian"
+        },
+        {
+            "id": "540330",
+            "zh": "边坝县",
+            "en": "Bianbaxian"
+        },
+        {
+            "id": "540402",
+            "zh": "巴宜区",
+            "en": "Bayiqu"
+        },
+        {
+            "id": "540421",
+            "zh": "工布江达县",
+            "en": "Gongbujiangdaxian"
+        },
+        {
+            "id": "540423",
+            "zh": "墨脱县",
+            "en": "Motuoxian"
+        },
+        {
+            "id": "540424",
+            "zh": "波密县",
+            "en": "Bomixian"
+        },
+        {
+            "id": "540425",
+            "zh": "察隅县",
+            "en": "Chayuxian"
+        },
+        {
+            "id": "540426",
+            "zh": "朗县",
+            "en": "Langxian"
+        },
+        {
+            "id": "540481",
+            "zh": "米林市",
+            "en": "Milinshi"
+        },
+        {
+            "id": "540502",
+            "zh": "乃东区",
+            "en": "Naidongqu"
+        },
+        {
+            "id": "540521",
+            "zh": "扎囊县",
+            "en": "Zhanangxian"
+        },
+        {
+            "id": "540522",
+            "zh": "贡嘎县",
+            "en": "Gonggaxian"
+        },
+        {
+            "id": "540523",
+            "zh": "桑日县",
+            "en": "Sangrixian"
+        },
+        {
+            "id": "540524",
+            "zh": "琼结县",
+            "en": "Qiongjiexian"
+        },
+        {
+            "id": "540525",
+            "zh": "曲松县",
+            "en": "Qusongxian"
+        },
+        {
+            "id": "540526",
+            "zh": "措美县",
+            "en": "Cuomeixian"
+        },
+        {
+            "id": "540527",
+            "zh": "洛扎县",
+            "en": "Luozhaxian"
+        },
+        {
+            "id": "540528",
+            "zh": "加查县",
+            "en": "Jiachaxian"
+        },
+        {
+            "id": "540529",
+            "zh": "隆子县",
+            "en": "Longzixian"
+        },
+        {
+            "id": "540531",
+            "zh": "浪卡子县",
+            "en": "Langqiazixian"
+        },
+        {
+            "id": "540581",
+            "zh": "错那市",
+            "en": "Cuonashi"
+        },
+        {
+            "id": "540602",
+            "zh": "色尼区",
+            "en": "Seniqu"
+        },
+        {
+            "id": "540621",
+            "zh": "嘉黎县",
+            "en": "Jialixian"
+        },
+        {
+            "id": "540622",
+            "zh": "比如县",
+            "en": "Biruxian"
+        },
+        {
+            "id": "540623",
+            "zh": "聂荣县",
+            "en": "Nierongxian"
+        },
+        {
+            "id": "540624",
+            "zh": "安多县",
+            "en": "Anduoxian"
+        },
+        {
+            "id": "540625",
+            "zh": "申扎县",
+            "en": "Shenzhaxian"
+        },
+        {
+            "id": "540626",
+            "zh": "索县",
+            "en": "Suoxian"
+        },
+        {
+            "id": "540627",
+            "zh": "班戈县",
+            "en": "Bangexian"
+        },
+        {
+            "id": "540628",
+            "zh": "巴青县",
+            "en": "Baqingxian"
+        },
+        {
+            "id": "540629",
+            "zh": "尼玛县",
+            "en": "Nimaxian"
+        },
+        {
+            "id": "540630",
+            "zh": "双湖县",
+            "en": "Shuanghuxian"
+        },
+        {
+            "id": "542521",
+            "zh": "普兰县",
+            "en": "Pulanxian"
+        },
+        {
+            "id": "542522",
+            "zh": "札达县",
+            "en": "Zhadaxian"
+        },
+        {
+            "id": "542523",
+            "zh": "噶尔县",
+            "en": "Gaerxian"
+        },
+        {
+            "id": "542524",
+            "zh": "日土县",
+            "en": "Rituxian"
+        },
+        {
+            "id": "542525",
+            "zh": "革吉县",
+            "en": "Gejixian"
+        },
+        {
+            "id": "542526",
+            "zh": "改则县",
+            "en": "Gaizexian"
+        },
+        {
+            "id": "542527",
+            "zh": "措勤县",
+            "en": "Cuoqinxian"
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "counties": [
+        {
+            "id": "220102",
+            "zh": "南关区",
+            "en": "Nanguanqu"
+        },
+        {
+            "id": "220103",
+            "zh": "宽城区",
+            "en": "Kuanchengqu"
+        },
+        {
+            "id": "220104",
+            "zh": "朝阳区",
+            "en": "Chaoyangqu"
+        },
+        {
+            "id": "220105",
+            "zh": "二道区",
+            "en": "Erdaoqu"
+        },
+        {
+            "id": "220106",
+            "zh": "绿园区",
+            "en": "Lvyuanqu"
+        },
+        {
+            "id": "220112",
+            "zh": "双阳区",
+            "en": "Shuangyangqu"
+        },
+        {
+            "id": "220113",
+            "zh": "九台区",
+            "en": "Jiutaiqu"
+        },
+        {
+            "id": "220122",
+            "zh": "农安县",
+            "en": "Nonganxian"
+        },
+        {
+            "id": "220182",
+            "zh": "榆树市",
+            "en": "Yushushi"
+        },
+        {
+            "id": "220183",
+            "zh": "德惠市",
+            "en": "Dehuishi"
+        },
+        {
+            "id": "220184",
+            "zh": "公主岭市",
+            "en": "Gongzhulingshi"
+        },
+        {
+            "id": "220202",
+            "zh": "昌邑区",
+            "en": "Changyiqu"
+        },
+        {
+            "id": "220203",
+            "zh": "龙潭区",
+            "en": "Longtanqu"
+        },
+        {
+            "id": "220204",
+            "zh": "船营区",
+            "en": "Chuanyingqu"
+        },
+        {
+            "id": "220211",
+            "zh": "丰满区",
+            "en": "Fengmanqu"
+        },
+        {
+            "id": "220221",
+            "zh": "永吉县",
+            "en": "Yongjixian"
+        },
+        {
+            "id": "220281",
+            "zh": "蛟河市",
+            "en": "Jiaoheshi"
+        },
+        {
+            "id": "220282",
+            "zh": "桦甸市",
+            "en": "Huadianshi"
+        },
+        {
+            "id": "220283",
+            "zh": "舒兰市",
+            "en": "Shulanshi"
+        },
+        {
+            "id": "220284",
+            "zh": "磐石市",
+            "en": "Panshishi"
+        },
+        {
+            "id": "220302",
+            "zh": "铁西区",
+            "en": "Tiexiqu"
+        },
+        {
+            "id": "220303",
+            "zh": "铁东区",
+            "en": "Tiedongqu"
+        },
+        {
+            "id": "220322",
+            "zh": "梨树县",
+            "en": "Lishuxian"
+        },
+        {
+            "id": "220323",
+            "zh": "伊通满族自治县",
+            "en": "Yitongmanzuzizhixian"
+        },
+        {
+            "id": "220382",
+            "zh": "双辽市",
+            "en": "Shuangliaoshi"
+        },
+        {
+            "id": "220402",
+            "zh": "龙山区",
+            "en": "Longshanqu"
+        },
+        {
+            "id": "220403",
+            "zh": "西安区",
+            "en": "Xianqu"
+        },
+        {
+            "id": "220421",
+            "zh": "东丰县",
+            "en": "Dongfengxian"
+        },
+        {
+            "id": "220422",
+            "zh": "东辽县",
+            "en": "Dongliaoxian"
+        },
+        {
+            "id": "220502",
+            "zh": "东昌区",
+            "en": "Dongchangqu"
+        },
+        {
+            "id": "220503",
+            "zh": "二道江区",
+            "en": "Erdaojiangqu"
+        },
+        {
+            "id": "220521",
+            "zh": "通化县",
+            "en": "Tonghuaxian"
+        },
+        {
+            "id": "220523",
+            "zh": "辉南县",
+            "en": "Huinanxian"
+        },
+        {
+            "id": "220524",
+            "zh": "柳河县",
+            "en": "Liuhexian"
+        },
+        {
+            "id": "220581",
+            "zh": "梅河口市",
+            "en": "Meihekoushi"
+        },
+        {
+            "id": "220582",
+            "zh": "集安市",
+            "en": "Jianshi"
+        },
+        {
+            "id": "220602",
+            "zh": "浑江区",
+            "en": "Hunjiangqu"
+        },
+        {
+            "id": "220605",
+            "zh": "江源区",
+            "en": "Jiangyuanqu"
+        },
+        {
+            "id": "220621",
+            "zh": "抚松县",
+            "en": "Fusongxian"
+        },
+        {
+            "id": "220622",
+            "zh": "靖宇县",
+            "en": "Jingyuxian"
+        },
+        {
+            "id": "220623",
+            "zh": "长白朝鲜族自治县",
+            "en": "Zhangbaichaoxianzuzizhixian"
+        },
+        {
+            "id": "220681",
+            "zh": "临江市",
+            "en": "Linjiangshi"
+        },
+        {
+            "id": "220702",
+            "zh": "宁江区",
+            "en": "Ningjiangqu"
+        },
+        {
+            "id": "220721",
+            "zh": "前郭尔罗斯蒙古族自治县",
+            "en": "Qianguoerluosimengguzuzizhixian"
+        },
+        {
+            "id": "220722",
+            "zh": "长岭县",
+            "en": "Zhanglingxian"
+        },
+        {
+            "id": "220723",
+            "zh": "乾安县",
+            "en": "Qiananxian"
+        },
+        {
+            "id": "220724",
+            "zh": "扶余市",
+            "en": "Fuyushi"
+        },
+        {
+            "id": "220802",
+            "zh": "洮北区",
+            "en": "Taobeiqu"
+        },
+        {
+            "id": "220821",
+            "zh": "镇赉县",
+            "en": "Zhenlaixian"
+        },
+        {
+            "id": "220822",
+            "zh": "通榆县",
+            "en": "Tongyuxian"
+        },
+        {
+            "id": "220881",
+            "zh": "洮南市",
+            "en": "Taonanshi"
+        },
+        {
+            "id": "220882",
+            "zh": "大安市",
+            "en": "Daanshi"
+        },
+        {
+            "id": "222401",
+            "zh": "延吉市",
+            "en": "Yanjishi"
+        },
+        {
+            "id": "222402",
+            "zh": "图们市",
+            "en": "Tumenshi"
+        },
+        {
+            "id": "222403",
+            "zh": "敦化市",
+            "en": "Dunhuashi"
+        },
+        {
+            "id": "222404",
+            "zh": "珲春市",
+            "en": "Huichunshi"
+        },
+        {
+            "id": "222405",
+            "zh": "龙井市",
+            "en": "Longjingshi"
+        },
+        {
+            "id": "222406",
+            "zh": "和龙市",
+            "en": "Helongshi"
+        },
+        {
+            "id": "222424",
+            "zh": "汪清县",
+            "en": "Wangqingxian"
+        },
+        {
+            "id": "222426",
+            "zh": "安图县",
+            "en": "Antuxian"
+        }
+    ]
+}

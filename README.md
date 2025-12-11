@@ -15,7 +15,12 @@ LICENSE: [Apache License 2.0](LICENSE.md)
 - 特例：`香港/Hong Kong`、`澳门/Macao`、`西藏/Tibet`、`内蒙古/Inner Mongolia`、`西安/Xi'an`等按内置映射处理。
 
 ## SDK接入
-### Python SDK [admtp](Open-SDK/Python-SDK/admtp/README.md)
+| 语言 | SDK | README | LICENSE |
+| ---- | ---- | ---- | ---- |
+| Python| admtp | [README.md](Open-SDK/Python-SDK/admtp/README.md) | [Apache License 2.0](Open-SDK\Python-SDK\admtp\LICENSE) |
+| Golang | admtp | [README.md](Open-SDK/Golang-SDK/admtp/README.md) | [Apache License 2.0](Open-SDK/Golang-SDK/admtp/LICENSE) |
+| Node.js | admtp | [README.md](Open-SDK/Node-SDK/admtp/README.md) | [Apache License 2.0](Open-SDK/Node-SDK/admtp/LICENSE) |
+| Java | admtp | [README.md](Open-SDK/Java-SDK/admtp/README.md) | [Apache License 2.0](Open-SDK/Java-SDK/admtp/LICENSE) |
 
 ## 快捷跳转
 - [ISO 3166-2 全球国家编码对照表](country_divisions.json)

@@ -1,0 +1,49 @@
+{
+    "cities": [
+        {
+            "id": "220100",
+            "zh": "长春",
+            "en": "Changchun"
+        },
+        {
+            "id": "220200",
+            "zh": "吉林",
+            "en": "Jilin"
+        },
+        {
+            "id": "220300",
+            "zh": "四平",
+            "en": "Siping"
+        },
+        {
+            "id": "220400",
+            "zh": "辽源",
+            "en": "Liaoyuan"
+        },
+        {
+            "id": "220500",
+            "zh": "通化",
+            "en": "Tonghua"
+        },
+        {
+            "id": "220600",
+            "zh": "白山",
+            "en": "Baishan"
+        },
+        {
+            "id": "220700",
+            "zh": "松原",
+            "en": "Songyuan"
+        },
+        {
+            "id": "220800",
+            "zh": "白城",
+            "en": "Baicheng"
+        },
+        {
+            "id": "222400",
+            "zh": "延边朝鲜族自治州",
+            "en": "Yanbianchaoxianzuzizhizhou"
+        }
+    ]
+}

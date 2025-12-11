@@ -1,0 +1,74 @@
+{
+    "cities": [
+        {
+            "id": "430100",
+            "zh": "长沙",
+            "en": "Changsha"
+        },
+        {
+            "id": "430200",
+            "zh": "株洲",
+            "en": "Zhuzhou"
+        },
+        {
+            "id": "430300",
+            "zh": "湘潭",
+            "en": "Xiangtan"
+        },
+        {
+            "id": "430400",
+            "zh": "衡阳",
+            "en": "Hengyang"
+        },
+        {
+            "id": "430500",
+            "zh": "邵阳",
+            "en": "Shaoyang"
+        },
+        {
+            "id": "430600",
+            "zh": "岳阳",
+            "en": "Yueyang"
+        },
+        {
+            "id": "430700",
+            "zh": "常德",
+            "en": "Changde"
+        },
+        {
+            "id": "430800",
+            "zh": "张家界",
+            "en": "Zhangjiajie"
+        },
+        {
+            "id": "430900",
+            "zh": "益阳",
+            "en": "Yiyang"
+        },
+        {
+            "id": "431000",
+            "zh": "郴州",
+            "en": "Chenzhou"
+        },
+        {
+            "id": "431100",
+            "zh": "永州",
+            "en": "Yongzhou"
+        },
+        {
+            "id": "431200",
+            "zh": "怀化",
+            "en": "Huaihua"
+        },
+        {
+            "id": "431300",
+            "zh": "娄底",
+            "en": "Loudi"
+        },
+        {
+            "id": "433100",
+            "zh": "湘西土家族苗族自治州",
+            "en": "Xiangxitujiazumiaozuzizhizhou"
+        }
+    ]
+}

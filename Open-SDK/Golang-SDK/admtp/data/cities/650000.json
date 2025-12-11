@@ -1,0 +1,74 @@
+{
+    "cities": [
+        {
+            "id": "650100",
+            "zh": "乌鲁木齐",
+            "en": "Wulumuqi"
+        },
+        {
+            "id": "650200",
+            "zh": "克拉玛依",
+            "en": "Kelamayi"
+        },
+        {
+            "id": "650400",
+            "zh": "吐鲁番",
+            "en": "Tulufan"
+        },
+        {
+            "id": "650500",
+            "zh": "哈密",
+            "en": "Hami"
+        },
+        {
+            "id": "652300",
+            "zh": "昌吉回族自治州",
+            "en": "Changjihuizuzizhizhou"
+        },
+        {
+            "id": "652700",
+            "zh": "博尔塔拉蒙古自治州",
+            "en": "Boertalamengguzizhizhou"
+        },
+        {
+            "id": "652800",
+            "zh": "巴音郭楞蒙古自治州",
+            "en": "Bayinguolengmengguzizhizhou"
+        },
+        {
+            "id": "652900",
+            "zh": "阿克苏地区",
+            "en": "Akesudiqu"
+        },
+        {
+            "id": "653000",
+            "zh": "克孜勒苏柯尔克孜自治州",
+            "en": "Kezileisukeerkezizizhizhou"
+        },
+        {
+            "id": "653100",
+            "zh": "喀什地区",
+            "en": "Kashidiqu"
+        },
+        {
+            "id": "653200",
+            "zh": "和田地区",
+            "en": "Hetiandiqu"
+        },
+        {
+            "id": "654000",
+            "zh": "伊犁哈萨克自治州",
+            "en": "Yilihasakezizhizhou"
+        },
+        {
+            "id": "654200",
+            "zh": "塔城地区",
+            "en": "Tachengdiqu"
+        },
+        {
+            "id": "654300",
+            "zh": "阿勒泰地区",
+            "en": "Aleitaidiqu"
+        }
+    ]
+}
