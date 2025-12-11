@@ -32,7 +32,7 @@
         },
         {
             "key": "ISO-3166_In_So",
-            "description": "是否为独立主权国家"
+            "description": "truefalse为独立主权国家"
         }
     ],
     "country":[
@@ -54,7 +54,7 @@
             "Alpha-3_code": "ALA",
             "Numeric": "248",
             "ISO-3166-2": "ISO-3166-2:AX",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "3",
@@ -64,7 +64,7 @@
             "Alpha-3_code": "ALB",
             "Numeric": "8",
             "ISO-3166-2": "ISO-3166-2:AL",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "4",
@@ -74,7 +74,7 @@
             "Alpha-3_code": "DZA",
             "Numeric": "12",
             "ISO-3166-2": "ISO-3166-2:DZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "5",
@@ -84,7 +84,7 @@
             "Alpha-3_code": "ASM",
             "Numeric": "16",
             "ISO-3166-2": "ISO-3166-2:AS",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "6",
@@ -94,7 +94,7 @@
             "Alpha-3_code": "AND",
             "Numeric": "20",
             "ISO-3166-2": "ISO-3166-2:AD",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "7",
@@ -104,7 +104,7 @@
             "Alpha-3_code": "AGO",
             "Numeric": "24",
             "ISO-3166-2": "ISO-3166-2:AO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "8",
@@ -114,7 +114,7 @@
             "Alpha-3_code": "AIA",
             "Numeric": "660",
             "ISO-3166-2": "ISO-3166-2:AI",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "9",
@@ -124,7 +124,7 @@
             "Alpha-3_code": "ATA",
             "Numeric": "10",
             "ISO-3166-2": "ISO-3166-2:AQ",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "10",
@@ -134,7 +134,7 @@
             "Alpha-3_code": "ATG",
             "Numeric": "28",
             "ISO-3166-2": "ISO-3166-2:AG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "11",
@@ -144,7 +144,7 @@
             "Alpha-3_code": "ARG",
             "Numeric": "32",
             "ISO-3166-2": "ISO-3166-2:AR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "12",
@@ -154,7 +154,7 @@
             "Alpha-3_code": "ARM",
             "Numeric": "51",
             "ISO-3166-2": "ISO-3166-2:AM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "13",
@@ -164,7 +164,7 @@
             "Alpha-3_code": "ABW",
             "Numeric": "533",
             "ISO-3166-2": "ISO-3166-2:AW",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "14",
@@ -174,7 +174,7 @@
             "Alpha-3_code": "AUS",
             "Numeric": "36",
             "ISO-3166-2": "ISO-3166-2:AU",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "15",
@@ -184,7 +184,7 @@
             "Alpha-3_code": "AUT",
             "Numeric": "40",
             "ISO-3166-2": "ISO-3166-2:AT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "16",
@@ -194,7 +194,7 @@
             "Alpha-3_code": "AZE",
             "Numeric": "31",
             "ISO-3166-2": "ISO-3166-2:AZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "17",
@@ -204,7 +204,7 @@
             "Alpha-3_code": "BHS",
             "Numeric": "44",
             "ISO-3166-2": "ISO-3166-2:BS",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "18",
@@ -214,7 +214,7 @@
             "Alpha-3_code": "BHR",
             "Numeric": "48",
             "ISO-3166-2": "ISO-3166-2:BH",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "19",
@@ -224,7 +224,7 @@
             "Alpha-3_code": "BGD",
             "Numeric": "50",
             "ISO-3166-2": "ISO-3166-2:BD",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "20",
@@ -234,7 +234,7 @@
             "Alpha-3_code": "BRB",
             "Numeric": "52",
             "ISO-3166-2": "ISO-3166-2:BB",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "21",
@@ -244,7 +244,7 @@
             "Alpha-3_code": "BLR",
             "Numeric": "112",
             "ISO-3166-2": "ISO-3166-2:BY",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "22",
@@ -254,7 +254,7 @@
             "Alpha-3_code": "BEL",
             "Numeric": "56",
             "ISO-3166-2": "ISO-3166-2:BE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "23",
@@ -264,7 +264,7 @@
             "Alpha-3_code": "BLZ",
             "Numeric": "84",
             "ISO-3166-2": "ISO-3166-2:BZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "24",
@@ -274,7 +274,7 @@
             "Alpha-3_code": "BEN",
             "Numeric": "204",
             "ISO-3166-2": "ISO-3166-2:BJ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "25",
@@ -284,7 +284,7 @@
             "Alpha-3_code": "BMU",
             "Numeric": "60",
             "ISO-3166-2": "ISO-3166-2:BM",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "26",
@@ -294,7 +294,7 @@
             "Alpha-3_code": "BTN",
             "Numeric": "64",
             "ISO-3166-2": "ISO-3166-2:BT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "27",
@@ -304,7 +304,7 @@
             "Alpha-3_code": "BOL",
             "Numeric": "68",
             "ISO-3166-2": "ISO-3166-2:BO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "28",
@@ -314,7 +314,7 @@
             "Alpha-3_code": "BES",
             "Numeric": "535",
             "ISO-3166-2": "ISO-3166-2:BQ",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "29",
@@ -324,7 +324,7 @@
             "Alpha-3_code": "BIH",
             "Numeric": "70",
             "ISO-3166-2": "ISO-3166-2:BA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "30",
@@ -334,7 +334,7 @@
             "Alpha-3_code": "BWA",
             "Numeric": "72",
             "ISO-3166-2": "ISO-3166-2:BW",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "31",
@@ -344,7 +344,7 @@
             "Alpha-3_code": "BVT",
             "Numeric": "74",
             "ISO-3166-2": "ISO-3166-2:BV",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "32",
@@ -354,7 +354,7 @@
             "Alpha-3_code": "BRA",
             "Numeric": "76",
             "ISO-3166-2": "ISO-3166-2:BR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "33",
@@ -364,7 +364,7 @@
             "Alpha-3_code": "IOT",
             "Numeric": "86",
             "ISO-3166-2": "ISO-3166-2:IO",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "34",
@@ -374,7 +374,7 @@
             "Alpha-3_code": "BRN",
             "Numeric": "96",
             "ISO-3166-2": "ISO-3166-2:BN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "35",
@@ -384,7 +384,7 @@
             "Alpha-3_code": "BGR",
             "Numeric": "100",
             "ISO-3166-2": "ISO-3166-2:BG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "36",
@@ -394,7 +394,7 @@
             "Alpha-3_code": "BFA",
             "Numeric": "854",
             "ISO-3166-2": "ISO-3166-2:BF",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "37",
@@ -404,7 +404,7 @@
             "Alpha-3_code": "BDI",
             "Numeric": "108",
             "ISO-3166-2": "ISO-3166-2:BI",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "38",
@@ -414,7 +414,7 @@
             "Alpha-3_code": "CPV",
             "Numeric": "132",
             "ISO-3166-2": "ISO-3166-2:CV",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "39",
@@ -424,7 +424,7 @@
             "Alpha-3_code": "KHM",
             "Numeric": "116",
             "ISO-3166-2": "ISO-3166-2:KH",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "40",
@@ -434,7 +434,7 @@
             "Alpha-3_code": "CMR",
             "Numeric": "120",
             "ISO-3166-2": "ISO-3166-2:CM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "41",
@@ -444,7 +444,7 @@
             "Alpha-3_code": "CAN",
             "Numeric": "124",
             "ISO-3166-2": "ISO-3166-2:CA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "42",
@@ -454,7 +454,7 @@
             "Alpha-3_code": "CYM",
             "Numeric": "136",
             "ISO-3166-2": "ISO-3166-2:KY",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "43",
@@ -464,7 +464,7 @@
             "Alpha-3_code": "CAF",
             "Numeric": "140",
             "ISO-3166-2": "ISO-3166-2:CF",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "44",
@@ -474,7 +474,7 @@
             "Alpha-3_code": "TCD",
             "Numeric": "148",
             "ISO-3166-2": "ISO-3166-2:TD",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "45",
@@ -484,7 +484,7 @@
             "Alpha-3_code": "CHL",
             "Numeric": "152",
             "ISO-3166-2": "ISO-3166-2:CL",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "46",
@@ -494,7 +494,7 @@
             "Alpha-3_code": "CHN",
             "Numeric": "156",
             "ISO-3166-2": "ISO-3166-2:CN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "47",
@@ -504,7 +504,7 @@
             "Alpha-3_code": "CXR",
             "Numeric": "162",
             "ISO-3166-2": "ISO-3166-2:CX",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "48",
@@ -514,7 +514,7 @@
             "Alpha-3_code": "CCK",
             "Numeric": "166",
             "ISO-3166-2": "ISO-3166-2:CC",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "49",
@@ -524,7 +524,7 @@
             "Alpha-3_code": "COL",
             "Numeric": "170",
             "ISO-3166-2": "ISO-3166-2:CO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "50",
@@ -534,7 +534,7 @@
             "Alpha-3_code": "COM",
             "Numeric": "174",
             "ISO-3166-2": "ISO-3166-2:KM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "51",
@@ -544,7 +544,7 @@
             "Alpha-3_code": "COG",
             "Numeric": "178",
             "ISO-3166-2": "ISO-3166-2:CG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "52",
@@ -554,7 +554,7 @@
             "Alpha-3_code": "COD",
             "Numeric": "180",
             "ISO-3166-2": "ISO-3166-2:CD",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "53",
@@ -564,7 +564,7 @@
             "Alpha-3_code": "COK",
             "Numeric": "184",
             "ISO-3166-2": "ISO-3166-2:CK",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "54",
@@ -574,7 +574,7 @@
             "Alpha-3_code": "CRI",
             "Numeric": "188",
             "ISO-3166-2": "ISO-3166-2:CR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "55",
@@ -584,7 +584,7 @@
             "Alpha-3_code": "CIV",
             "Numeric": "384",
             "ISO-3166-2": "ISO-3166-2:CI",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "56",
@@ -594,7 +594,7 @@
             "Alpha-3_code": "HRV",
             "Numeric": "191",
             "ISO-3166-2": "ISO-3166-2:HR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "57",
@@ -604,7 +604,7 @@
             "Alpha-3_code": "CUB",
             "Numeric": "192",
             "ISO-3166-2": "ISO-3166-2:CU",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "58",
@@ -614,7 +614,7 @@
             "Alpha-3_code": "CUW",
             "Numeric": "531",
             "ISO-3166-2": "ISO-3166-2:CW",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "59",
@@ -624,7 +624,7 @@
             "Alpha-3_code": "CYP",
             "Numeric": "196",
             "ISO-3166-2": "ISO-3166-2:CY",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "60",
@@ -634,7 +634,7 @@
             "Alpha-3_code": "CZE",
             "Numeric": "203",
             "ISO-3166-2": "ISO-3166-2:CZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "61",
@@ -644,7 +644,7 @@
             "Alpha-3_code": "DNK",
             "Numeric": "208",
             "ISO-3166-2": "ISO-3166-2:DK",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "62",
@@ -654,7 +654,7 @@
             "Alpha-3_code": "DJI",
             "Numeric": "262",
             "ISO-3166-2": "ISO-3166-2:DJ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "63",
@@ -664,7 +664,7 @@
             "Alpha-3_code": "DMA",
             "Numeric": "212",
             "ISO-3166-2": "ISO-3166-2:DM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "64",
@@ -674,7 +674,7 @@
             "Alpha-3_code": "DOM",
             "Numeric": "214",
             "ISO-3166-2": "ISO-3166-2:DO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "65",
@@ -684,7 +684,7 @@
             "Alpha-3_code": "ECU",
             "Numeric": "218",
             "ISO-3166-2": "ISO-3166-2:EC",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "66",
@@ -694,7 +694,7 @@
             "Alpha-3_code": "EGY",
             "Numeric": "818",
             "ISO-3166-2": "ISO-3166-2:EG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "67",
@@ -704,7 +704,7 @@
             "Alpha-3_code": "SLV",
             "Numeric": "222",
             "ISO-3166-2": "ISO-3166-2:SV",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "68",
@@ -714,7 +714,7 @@
             "Alpha-3_code": "GNQ",
             "Numeric": "226",
             "ISO-3166-2": "ISO-3166-2:GQ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "69",
@@ -724,7 +724,7 @@
             "Alpha-3_code": "ERI",
             "Numeric": "232",
             "ISO-3166-2": "ISO-3166-2:ER",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "70",
@@ -734,7 +734,7 @@
             "Alpha-3_code": "EST",
             "Numeric": "233",
             "ISO-3166-2": "ISO-3166-2:EE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "71",
@@ -744,7 +744,7 @@
             "Alpha-3_code": "SWZ",
             "Numeric": "748",
             "ISO-3166-2": "ISO-3166-2:SZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "72",
@@ -754,7 +754,7 @@
             "Alpha-3_code": "ETH",
             "Numeric": "231",
             "ISO-3166-2": "ISO-3166-2:ET",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "73",
@@ -764,7 +764,7 @@
             "Alpha-3_code": "FLK",
             "Numeric": "238",
             "ISO-3166-2": "ISO-3166-2:FK",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "74",
@@ -774,7 +774,7 @@
             "Alpha-3_code": "FRO",
             "Numeric": "234",
             "ISO-3166-2": "ISO-3166-2:FO",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "75",
@@ -784,7 +784,7 @@
             "Alpha-3_code": "FJI",
             "Numeric": "242",
             "ISO-3166-2": "ISO-3166-2:FJ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "76",
@@ -794,7 +794,7 @@
             "Alpha-3_code": "FIN",
             "Numeric": "246",
             "ISO-3166-2": "ISO-3166-2:FI",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "77",
@@ -804,7 +804,7 @@
             "Alpha-3_code": "FRA",
             "Numeric": "250",
             "ISO-3166-2": "ISO-3166-2:FR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "78",
@@ -814,7 +814,7 @@
             "Alpha-3_code": "GUF",
             "Numeric": "254",
             "ISO-3166-2": "ISO-3166-2:GF",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "79",
@@ -824,7 +824,7 @@
             "Alpha-3_code": "PYF",
             "Numeric": "258",
             "ISO-3166-2": "ISO-3166-2:PF",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "80",
@@ -834,7 +834,7 @@
             "Alpha-3_code": "ATF",
             "Numeric": "260",
             "ISO-3166-2": "ISO-3166-2:TF",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "81",
@@ -844,7 +844,7 @@
             "Alpha-3_code": "GAB",
             "Numeric": "266",
             "ISO-3166-2": "ISO-3166-2:GA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "82",
@@ -854,7 +854,7 @@
             "Alpha-3_code": "GMB",
             "Numeric": "270",
             "ISO-3166-2": "ISO-3166-2:GM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "83",
@@ -864,7 +864,7 @@
             "Alpha-3_code": "GEO",
             "Numeric": "268",
             "ISO-3166-2": "ISO-3166-2:GE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "84",
@@ -874,7 +874,7 @@
             "Alpha-3_code": "DEU",
             "Numeric": "276",
             "ISO-3166-2": "ISO-3166-2:DE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "85",
@@ -884,7 +884,7 @@
             "Alpha-3_code": "GHA",
             "Numeric": "288",
             "ISO-3166-2": "ISO-3166-2:GH",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "86",
@@ -894,7 +894,7 @@
             "Alpha-3_code": "GIB",
             "Numeric": "292",
             "ISO-3166-2": "ISO-3166-2:GI",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "87",
@@ -904,7 +904,7 @@
             "Alpha-3_code": "GRC",
             "Numeric": "300",
             "ISO-3166-2": "ISO-3166-2:GR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "88",
@@ -914,7 +914,7 @@
             "Alpha-3_code": "GRL",
             "Numeric": "304",
             "ISO-3166-2": "ISO-3166-2:GL",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "89",
@@ -924,7 +924,7 @@
             "Alpha-3_code": "GRD",
             "Numeric": "308",
             "ISO-3166-2": "ISO-3166-2:GD",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "90",
@@ -934,7 +934,7 @@
             "Alpha-3_code": "GLP",
             "Numeric": "312",
             "ISO-3166-2": "ISO-3166-2:GP",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "91",
@@ -944,7 +944,7 @@
             "Alpha-3_code": "GUM",
             "Numeric": "316",
             "ISO-3166-2": "ISO-3166-2:GU",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "92",
@@ -954,7 +954,7 @@
             "Alpha-3_code": "GTM",
             "Numeric": "320",
             "ISO-3166-2": "ISO-3166-2:GT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "93",
@@ -964,7 +964,7 @@
             "Alpha-3_code": "GGY",
             "Numeric": "831",
             "ISO-3166-2": "ISO-3166-2:GG",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "94",
@@ -974,7 +974,7 @@
             "Alpha-3_code": "GIN",
             "Numeric": "324",
             "ISO-3166-2": "ISO-3166-2:GN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "95",
@@ -984,7 +984,7 @@
             "Alpha-3_code": "GNB",
             "Numeric": "624",
             "ISO-3166-2": "ISO-3166-2:GW",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "96",
@@ -994,7 +994,7 @@
             "Alpha-3_code": "GUY",
             "Numeric": "328",
             "ISO-3166-2": "ISO-3166-2:GY",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "97",
@@ -1004,7 +1004,7 @@
             "Alpha-3_code": "HTI",
             "Numeric": "332",
             "ISO-3166-2": "ISO-3166-2:HT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "98",
@@ -1014,7 +1014,7 @@
             "Alpha-3_code": "HMD",
             "Numeric": "334",
             "ISO-3166-2": "ISO-3166-2:HM",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "99",
@@ -1024,7 +1024,7 @@
             "Alpha-3_code": "VAT",
             "Numeric": "336",
             "ISO-3166-2": "ISO-3166-2:VA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "100",
@@ -1034,7 +1034,7 @@
             "Alpha-3_code": "HND",
             "Numeric": "340",
             "ISO-3166-2": "ISO-3166-2:HN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "101",
@@ -1044,7 +1044,7 @@
             "Alpha-3_code": "HKG",
             "Numeric": "344",
             "ISO-3166-2": "ISO-3166-2:HK",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "102",
@@ -1054,7 +1054,7 @@
             "Alpha-3_code": "HUN",
             "Numeric": "348",
             "ISO-3166-2": "ISO-3166-2:HU",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "103",
@@ -1064,7 +1064,7 @@
             "Alpha-3_code": "ISL",
             "Numeric": "352",
             "ISO-3166-2": "ISO-3166-2:IS",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "104",
@@ -1074,7 +1074,7 @@
             "Alpha-3_code": "IND",
             "Numeric": "356",
             "ISO-3166-2": "ISO-3166-2:IN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "105",
@@ -1084,7 +1084,7 @@
             "Alpha-3_code": "IDN",
             "Numeric": "360",
             "ISO-3166-2": "ISO-3166-2:ID",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "106",
@@ -1094,7 +1094,7 @@
             "Alpha-3_code": "IRN",
             "Numeric": "364",
             "ISO-3166-2": "ISO-3166-2:IR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "107",
@@ -1104,7 +1104,7 @@
             "Alpha-3_code": "IRQ",
             "Numeric": "368",
             "ISO-3166-2": "ISO-3166-2:IQ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "108",
@@ -1114,7 +1114,7 @@
             "Alpha-3_code": "IRL",
             "Numeric": "372",
             "ISO-3166-2": "ISO-3166-2:IE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "109",
@@ -1124,7 +1124,7 @@
             "Alpha-3_code": "IMN",
             "Numeric": "833",
             "ISO-3166-2": "ISO-3166-2:IM",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "110",
@@ -1134,7 +1134,7 @@
             "Alpha-3_code": "ISR",
             "Numeric": "376",
             "ISO-3166-2": "ISO-3166-2:IL",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "111",
@@ -1144,7 +1144,7 @@
             "Alpha-3_code": "ITA",
             "Numeric": "380",
             "ISO-3166-2": "ISO-3166-2:IT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "112",
@@ -1154,7 +1154,7 @@
             "Alpha-3_code": "JAM",
             "Numeric": "388",
             "ISO-3166-2": "ISO-3166-2:JM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "113",
@@ -1164,7 +1164,7 @@
             "Alpha-3_code": "JPN",
             "Numeric": "392",
             "ISO-3166-2": "ISO-3166-2:JP",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "114",
@@ -1174,7 +1174,7 @@
             "Alpha-3_code": "JEY",
             "Numeric": "832",
             "ISO-3166-2": "ISO-3166-2:JE",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "115",
@@ -1184,7 +1184,7 @@
             "Alpha-3_code": "JOR",
             "Numeric": "400",
             "ISO-3166-2": "ISO-3166-2:JO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "116",
@@ -1194,7 +1194,7 @@
             "Alpha-3_code": "KAZ",
             "Numeric": "398",
             "ISO-3166-2": "ISO-3166-2:KZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "117",
@@ -1204,7 +1204,7 @@
             "Alpha-3_code": "KEN",
             "Numeric": "404",
             "ISO-3166-2": "ISO-3166-2:KE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "118",
@@ -1214,7 +1214,7 @@
             "Alpha-3_code": "KIR",
             "Numeric": "296",
             "ISO-3166-2": "ISO-3166-2:KI",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "119",
@@ -1224,7 +1224,7 @@
             "Alpha-3_code": "PRK",
             "Numeric": "408",
             "ISO-3166-2": "ISO-3166-2:KP",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "120",
@@ -1234,7 +1234,7 @@
             "Alpha-3_code": "KOR",
             "Numeric": "410",
             "ISO-3166-2": "ISO-3166-2:KR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "121",
@@ -1244,7 +1244,7 @@
             "Alpha-3_code": "KWT",
             "Numeric": "414",
             "ISO-3166-2": "ISO-3166-2:KW",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "122",
@@ -1254,7 +1254,7 @@
             "Alpha-3_code": "KGZ",
             "Numeric": "417",
             "ISO-3166-2": "ISO-3166-2:KG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "123",
@@ -1264,7 +1264,7 @@
             "Alpha-3_code": "LAO",
             "Numeric": "418",
             "ISO-3166-2": "ISO-3166-2:LA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "124",
@@ -1274,7 +1274,7 @@
             "Alpha-3_code": "LVA",
             "Numeric": "428",
             "ISO-3166-2": "ISO-3166-2:LV",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "125",
@@ -1284,7 +1284,7 @@
             "Alpha-3_code": "LBN",
             "Numeric": "422",
             "ISO-3166-2": "ISO-3166-2:LB",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "126",
@@ -1294,7 +1294,7 @@
             "Alpha-3_code": "LSO",
             "Numeric": "426",
             "ISO-3166-2": "ISO-3166-2:LS",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "127",
@@ -1304,7 +1304,7 @@
             "Alpha-3_code": "LBR",
             "Numeric": "430",
             "ISO-3166-2": "ISO-3166-2:LR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "128",
@@ -1314,7 +1314,7 @@
             "Alpha-3_code": "LBY",
             "Numeric": "434",
             "ISO-3166-2": "ISO-3166-2:LY",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "129",
@@ -1324,7 +1324,7 @@
             "Alpha-3_code": "LIE",
             "Numeric": "438",
             "ISO-3166-2": "ISO-3166-2:LI",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "130",
@@ -1334,7 +1334,7 @@
             "Alpha-3_code": "LTU",
             "Numeric": "440",
             "ISO-3166-2": "ISO-3166-2:LT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "131",
@@ -1344,7 +1344,7 @@
             "Alpha-3_code": "LUX",
             "Numeric": "442",
             "ISO-3166-2": "ISO-3166-2:LU",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "132",
@@ -1354,7 +1354,7 @@
             "Alpha-3_code": "MAC",
             "Numeric": "446",
             "ISO-3166-2": "ISO-3166-2:MO",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "133",
@@ -1364,7 +1364,7 @@
             "Alpha-3_code": "MDG",
             "Numeric": "450",
             "ISO-3166-2": "ISO-3166-2:MG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "134",
@@ -1374,7 +1374,7 @@
             "Alpha-3_code": "MWI",
             "Numeric": "454",
             "ISO-3166-2": "ISO-3166-2:MW",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "135",
@@ -1384,7 +1384,7 @@
             "Alpha-3_code": "MYS",
             "Numeric": "458",
             "ISO-3166-2": "ISO-3166-2:MY",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "136",
@@ -1394,7 +1394,7 @@
             "Alpha-3_code": "MDV",
             "Numeric": "462",
             "ISO-3166-2": "ISO-3166-2:MV",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "137",
@@ -1404,7 +1404,7 @@
             "Alpha-3_code": "MLI",
             "Numeric": "466",
             "ISO-3166-2": "ISO-3166-2:ML",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "138",
@@ -1414,7 +1414,7 @@
             "Alpha-3_code": "MLT",
             "Numeric": "470",
             "ISO-3166-2": "ISO-3166-2:MT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "139",
@@ -1424,7 +1424,7 @@
             "Alpha-3_code": "MHL",
             "Numeric": "584",
             "ISO-3166-2": "ISO-3166-2:MH",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "140",
@@ -1434,7 +1434,7 @@
             "Alpha-3_code": "MTQ",
             "Numeric": "474",
             "ISO-3166-2": "ISO-3166-2:MQ",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "141",
@@ -1444,7 +1444,7 @@
             "Alpha-3_code": "MRT",
             "Numeric": "478",
             "ISO-3166-2": "ISO-3166-2:MR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "142",
@@ -1454,7 +1454,7 @@
             "Alpha-3_code": "MUS",
             "Numeric": "480",
             "ISO-3166-2": "ISO-3166-2:MU",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "143",
@@ -1464,7 +1464,7 @@
             "Alpha-3_code": "MYT",
             "Numeric": "175",
             "ISO-3166-2": "ISO-3166-2:YT",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "144",
@@ -1474,7 +1474,7 @@
             "Alpha-3_code": "MEX",
             "Numeric": "484",
             "ISO-3166-2": "ISO-3166-2:MX",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "145",
@@ -1484,7 +1484,7 @@
             "Alpha-3_code": "FSM",
             "Numeric": "583",
             "ISO-3166-2": "ISO-3166-2:FM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "146",
@@ -1494,7 +1494,7 @@
             "Alpha-3_code": "MDA",
             "Numeric": "498",
             "ISO-3166-2": "ISO-3166-2:MD",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "147",
@@ -1504,7 +1504,7 @@
             "Alpha-3_code": "MCO",
             "Numeric": "492",
             "ISO-3166-2": "ISO-3166-2:MC",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "148",
@@ -1514,7 +1514,7 @@
             "Alpha-3_code": "MNG",
             "Numeric": "496",
             "ISO-3166-2": "ISO-3166-2:MN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "149",
@@ -1524,7 +1524,7 @@
             "Alpha-3_code": "MNE",
             "Numeric": "499",
             "ISO-3166-2": "ISO-3166-2:ME",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "150",
@@ -1534,7 +1534,7 @@
             "Alpha-3_code": "MSR",
             "Numeric": "500",
             "ISO-3166-2": "ISO-3166-2:MS",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "151",
@@ -1544,7 +1544,7 @@
             "Alpha-3_code": "MAR",
             "Numeric": "504",
             "ISO-3166-2": "ISO-3166-2:MA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "152",
@@ -1554,7 +1554,7 @@
             "Alpha-3_code": "MOZ",
             "Numeric": "508",
             "ISO-3166-2": "ISO-3166-2:MZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "153",
@@ -1564,7 +1564,7 @@
             "Alpha-3_code": "MMR",
             "Numeric": "104",
             "ISO-3166-2": "ISO-3166-2:MM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "154",
@@ -1574,7 +1574,7 @@
             "Alpha-3_code": "NAM",
             "Numeric": "516",
             "ISO-3166-2": "ISO-3166-2:NA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "155",
@@ -1584,7 +1584,7 @@
             "Alpha-3_code": "NRU",
             "Numeric": "520",
             "ISO-3166-2": "ISO-3166-2:NR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "156",
@@ -1594,7 +1594,7 @@
             "Alpha-3_code": "NPL",
             "Numeric": "524",
             "ISO-3166-2": "ISO-3166-2:NP",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "157",
@@ -1604,7 +1604,7 @@
             "Alpha-3_code": "NLD",
             "Numeric": "528",
             "ISO-3166-2": "ISO-3166-2:NL",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "158",
@@ -1614,7 +1614,7 @@
             "Alpha-3_code": "NCL",
             "Numeric": "540",
             "ISO-3166-2": "ISO-3166-2:NC",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "159",
@@ -1624,7 +1624,7 @@
             "Alpha-3_code": "NZL",
             "Numeric": "554",
             "ISO-3166-2": "ISO-3166-2:NZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "160",
@@ -1634,7 +1634,7 @@
             "Alpha-3_code": "NIC",
             "Numeric": "558",
             "ISO-3166-2": "ISO-3166-2:NI",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "161",
@@ -1644,7 +1644,7 @@
             "Alpha-3_code": "NER",
             "Numeric": "562",
             "ISO-3166-2": "ISO-3166-2:NE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "162",
@@ -1654,7 +1654,7 @@
             "Alpha-3_code": "NGA",
             "Numeric": "566",
             "ISO-3166-2": "ISO-3166-2:NG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "163",
@@ -1664,7 +1664,7 @@
             "Alpha-3_code": "NIU",
             "Numeric": "570",
             "ISO-3166-2": "ISO-3166-2:NU",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "164",
@@ -1674,7 +1674,7 @@
             "Alpha-3_code": "NFK",
             "Numeric": "574",
             "ISO-3166-2": "ISO-3166-2:NF",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "165",
@@ -1684,7 +1684,7 @@
             "Alpha-3_code": "MKD",
             "Numeric": "807",
             "ISO-3166-2": "ISO-3166-2:MK",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "166",
@@ -1694,7 +1694,7 @@
             "Alpha-3_code": "MNP",
             "Numeric": "580",
             "ISO-3166-2": "ISO-3166-2:MP",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "167",
@@ -1704,7 +1704,7 @@
             "Alpha-3_code": "NOR",
             "Numeric": "578",
             "ISO-3166-2": "ISO-3166-2:NO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "168",
@@ -1714,7 +1714,7 @@
             "Alpha-3_code": "OMN",
             "Numeric": "512",
             "ISO-3166-2": "ISO-3166-2:OM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "169",
@@ -1724,7 +1724,7 @@
             "Alpha-3_code": "PAK",
             "Numeric": "586",
             "ISO-3166-2": "ISO-3166-2:PK",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "170",
@@ -1734,7 +1734,7 @@
             "Alpha-3_code": "PLW",
             "Numeric": "585",
             "ISO-3166-2": "ISO-3166-2:PW",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "171",
@@ -1744,7 +1744,7 @@
             "Alpha-3_code": "PSE",
             "Numeric": "275",
             "ISO-3166-2": "ISO-3166-2:PS",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "172",
@@ -1754,7 +1754,7 @@
             "Alpha-3_code": "PAN",
             "Numeric": "591",
             "ISO-3166-2": "ISO-3166-2:PA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "173",
@@ -1764,7 +1764,7 @@
             "Alpha-3_code": "PNG",
             "Numeric": "598",
             "ISO-3166-2": "ISO-3166-2:PG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "174",
@@ -1774,7 +1774,7 @@
             "Alpha-3_code": "PRY",
             "Numeric": "600",
             "ISO-3166-2": "ISO-3166-2:PY",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "175",
@@ -1784,7 +1784,7 @@
             "Alpha-3_code": "PER",
             "Numeric": "604",
             "ISO-3166-2": "ISO-3166-2:PE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "176",
@@ -1794,7 +1794,7 @@
             "Alpha-3_code": "PHL",
             "Numeric": "608",
             "ISO-3166-2": "ISO-3166-2:PH",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "177",
@@ -1804,7 +1804,7 @@
             "Alpha-3_code": "PCN",
             "Numeric": "612",
             "ISO-3166-2": "ISO-3166-2:PN",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "178",
@@ -1814,7 +1814,7 @@
             "Alpha-3_code": "POL",
             "Numeric": "616",
             "ISO-3166-2": "ISO-3166-2:PL",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "179",
@@ -1824,7 +1824,7 @@
             "Alpha-3_code": "PRT",
             "Numeric": "620",
             "ISO-3166-2": "ISO-3166-2:PT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "180",
@@ -1834,7 +1834,7 @@
             "Alpha-3_code": "PRI",
             "Numeric": "630",
             "ISO-3166-2": "ISO-3166-2:PR",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "181",
@@ -1844,7 +1844,7 @@
             "Alpha-3_code": "QAT",
             "Numeric": "634",
             "ISO-3166-2": "ISO-3166-2:QA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "182",
@@ -1854,7 +1854,7 @@
             "Alpha-3_code": "REU",
             "Numeric": "638",
             "ISO-3166-2": "ISO-3166-2:RE",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "183",
@@ -1864,7 +1864,7 @@
             "Alpha-3_code": "ROU",
             "Numeric": "642",
             "ISO-3166-2": "ISO-3166-2:RO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "184",
@@ -1874,7 +1874,7 @@
             "Alpha-3_code": "RUS",
             "Numeric": "643",
             "ISO-3166-2": "ISO-3166-2:RU",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "185",
@@ -1884,7 +1884,7 @@
             "Alpha-3_code": "RWA",
             "Numeric": "646",
             "ISO-3166-2": "ISO-3166-2:RW",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "186",
@@ -1894,7 +1894,7 @@
             "Alpha-3_code": "BLM",
             "Numeric": "652",
             "ISO-3166-2": "ISO-3166-2:BL",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "187",
@@ -1904,7 +1904,7 @@
             "Alpha-3_code": "SHN",
             "Numeric": "654",
             "ISO-3166-2": "ISO-3166-2:SH",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "188",
@@ -1914,7 +1914,7 @@
             "Alpha-3_code": "KNA",
             "Numeric": "659",
             "ISO-3166-2": "ISO-3166-2:KN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "189",
@@ -1924,7 +1924,7 @@
             "Alpha-3_code": "LCA",
             "Numeric": "662",
             "ISO-3166-2": "ISO-3166-2:LC",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "190",
@@ -1934,7 +1934,7 @@
             "Alpha-3_code": "MAF",
             "Numeric": "663",
             "ISO-3166-2": "ISO-3166-2:MF",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "191",
@@ -1944,7 +1944,7 @@
             "Alpha-3_code": "SPM",
             "Numeric": "666",
             "ISO-3166-2": "ISO-3166-2:PM",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "192",
@@ -1954,7 +1954,7 @@
             "Alpha-3_code": "VCT",
             "Numeric": "670",
             "ISO-3166-2": "ISO-3166-2:VC",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "193",
@@ -1964,7 +1964,7 @@
             "Alpha-3_code": "WSM",
             "Numeric": "882",
             "ISO-3166-2": "ISO-3166-2:WS",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "194",
@@ -1974,7 +1974,7 @@
             "Alpha-3_code": "SMR",
             "Numeric": "674",
             "ISO-3166-2": "ISO-3166-2:SM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "195",
@@ -1984,7 +1984,7 @@
             "Alpha-3_code": "STP",
             "Numeric": "678",
             "ISO-3166-2": "ISO-3166-2:ST",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "196",
@@ -1994,7 +1994,7 @@
             "Alpha-3_code": "SAU",
             "Numeric": "682",
             "ISO-3166-2": "ISO-3166-2:SA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "197",
@@ -2004,7 +2004,7 @@
             "Alpha-3_code": "SEN",
             "Numeric": "686",
             "ISO-3166-2": "ISO-3166-2:SN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "198",
@@ -2014,7 +2014,7 @@
             "Alpha-3_code": "SRB",
             "Numeric": "688",
             "ISO-3166-2": "ISO-3166-2:RS",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "199",
@@ -2024,7 +2024,7 @@
             "Alpha-3_code": "SYC",
             "Numeric": "690",
             "ISO-3166-2": "ISO-3166-2:SC",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "200",
@@ -2034,7 +2034,7 @@
             "Alpha-3_code": "SLE",
             "Numeric": "694",
             "ISO-3166-2": "ISO-3166-2:SL",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "201",
@@ -2044,7 +2044,7 @@
             "Alpha-3_code": "SGP",
             "Numeric": "702",
             "ISO-3166-2": "ISO-3166-2:SG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "202",
@@ -2054,7 +2054,7 @@
             "Alpha-3_code": "SXM",
             "Numeric": "534",
             "ISO-3166-2": "ISO-3166-2:SX",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "203",
@@ -2064,7 +2064,7 @@
             "Alpha-3_code": "SVK",
             "Numeric": "703",
             "ISO-3166-2": "ISO-3166-2:SK",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "204",
@@ -2074,7 +2074,7 @@
             "Alpha-3_code": "SVN",
             "Numeric": "705",
             "ISO-3166-2": "ISO-3166-2:SI",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "205",
@@ -2084,7 +2084,7 @@
             "Alpha-3_code": "SLB",
             "Numeric": "90",
             "ISO-3166-2": "ISO-3166-2:SB",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "206",
@@ -2094,7 +2094,7 @@
             "Alpha-3_code": "SOM",
             "Numeric": "706",
             "ISO-3166-2": "ISO-3166-2:SO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "207",
@@ -2104,7 +2104,7 @@
             "Alpha-3_code": "ZAF",
             "Numeric": "710",
             "ISO-3166-2": "ISO-3166-2:ZA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "208",
@@ -2114,7 +2114,7 @@
             "Alpha-3_code": "SGS",
             "Numeric": "239",
             "ISO-3166-2": "ISO-3166-2:GS",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "209",
@@ -2124,7 +2124,7 @@
             "Alpha-3_code": "SSD",
             "Numeric": "728",
             "ISO-3166-2": "ISO-3166-2:SS",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "210",
@@ -2134,7 +2134,7 @@
             "Alpha-3_code": "ESP",
             "Numeric": "724",
             "ISO-3166-2": "ISO-3166-2:ES",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "211",
@@ -2144,7 +2144,7 @@
             "Alpha-3_code": "LKA",
             "Numeric": "144",
             "ISO-3166-2": "ISO-3166-2:LK",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "212",
@@ -2154,7 +2154,7 @@
             "Alpha-3_code": "SDN",
             "Numeric": "729",
             "ISO-3166-2": "ISO-3166-2:SD",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "213",
@@ -2164,7 +2164,7 @@
             "Alpha-3_code": "SUR",
             "Numeric": "740",
             "ISO-3166-2": "ISO-3166-2:SR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "214",
@@ -2174,7 +2174,7 @@
             "Alpha-3_code": "SJM",
             "Numeric": "744",
             "ISO-3166-2": "ISO-3166-2:SJ",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "215",
@@ -2184,7 +2184,7 @@
             "Alpha-3_code": "SWE",
             "Numeric": "752",
             "ISO-3166-2": "ISO-3166-2:SE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "216",
@@ -2194,7 +2194,7 @@
             "Alpha-3_code": "CHE",
             "Numeric": "756",
             "ISO-3166-2": "ISO-3166-2:CH",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "217",
@@ -2204,7 +2204,7 @@
             "Alpha-3_code": "SYR",
             "Numeric": "760",
             "ISO-3166-2": "ISO-3166-2:SY",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "218",
@@ -2214,7 +2214,7 @@
             "Alpha-3_code": "TWN",
             "Numeric": "158",
             "ISO-3166-2": "ISO-3166-2:TW",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "219",
@@ -2224,7 +2224,7 @@
             "Alpha-3_code": "TJK",
             "Numeric": "762",
             "ISO-3166-2": "ISO-3166-2:TJ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "220",
@@ -2234,7 +2234,7 @@
             "Alpha-3_code": "TZA",
             "Numeric": "834",
             "ISO-3166-2": "ISO-3166-2:TZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "221",
@@ -2244,7 +2244,7 @@
             "Alpha-3_code": "THA",
             "Numeric": "764",
             "ISO-3166-2": "ISO-3166-2:TH",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "222",
@@ -2254,7 +2254,7 @@
             "Alpha-3_code": "TLS",
             "Numeric": "626",
             "ISO-3166-2": "ISO-3166-2:TL",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "223",
@@ -2264,7 +2264,7 @@
             "Alpha-3_code": "TGO",
             "Numeric": "768",
             "ISO-3166-2": "ISO-3166-2:TG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "224",
@@ -2274,7 +2274,7 @@
             "Alpha-3_code": "TKL",
             "Numeric": "772",
             "ISO-3166-2": "ISO-3166-2:TK",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "225",
@@ -2284,7 +2284,7 @@
             "Alpha-3_code": "TON",
             "Numeric": "776",
             "ISO-3166-2": "ISO-3166-2:TO",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "226",
@@ -2294,7 +2294,7 @@
             "Alpha-3_code": "TTO",
             "Numeric": "780",
             "ISO-3166-2": "ISO-3166-2:TT",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "227",
@@ -2304,7 +2304,7 @@
             "Alpha-3_code": "TUN",
             "Numeric": "788",
             "ISO-3166-2": "ISO-3166-2:TN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "228",
@@ -2314,7 +2314,7 @@
             "Alpha-3_code": "TUR",
             "Numeric": "792",
             "ISO-3166-2": "ISO-3166-2:TR",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "229",
@@ -2324,7 +2324,7 @@
             "Alpha-3_code": "TKM",
             "Numeric": "795",
             "ISO-3166-2": "ISO-3166-2:TM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "230",
@@ -2334,7 +2334,7 @@
             "Alpha-3_code": "TCA",
             "Numeric": "796",
             "ISO-3166-2": "ISO-3166-2:TC",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "231",
@@ -2344,7 +2344,7 @@
             "Alpha-3_code": "TUV",
             "Numeric": "798",
             "ISO-3166-2": "ISO-3166-2:TV",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "232",
@@ -2354,7 +2354,7 @@
             "Alpha-3_code": "UGA",
             "Numeric": "800",
             "ISO-3166-2": "ISO-3166-2:UG",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "233",
@@ -2364,7 +2364,7 @@
             "Alpha-3_code": "UKR",
             "Numeric": "804",
             "ISO-3166-2": "ISO-3166-2:UA",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "234",
@@ -2374,7 +2374,7 @@
             "Alpha-3_code": "ARE",
             "Numeric": "784",
             "ISO-3166-2": "ISO-3166-2:AE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "235",
@@ -2384,7 +2384,7 @@
             "Alpha-3_code": "GBR",
             "Numeric": "826",
             "ISO-3166-2": "ISO-3166-2:GB",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "236",
@@ -2394,7 +2394,7 @@
             "Alpha-3_code": "USA",
             "Numeric": "840",
             "ISO-3166-2": "ISO-3166-2:US",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "237",
@@ -2404,7 +2404,7 @@
             "Alpha-3_code": "UMI",
             "Numeric": "581",
             "ISO-3166-2": "ISO-3166-2:UM",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "238",
@@ -2414,7 +2414,7 @@
             "Alpha-3_code": "URY",
             "Numeric": "858",
             "ISO-3166-2": "ISO-3166-2:UY",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "239",
@@ -2424,7 +2424,7 @@
             "Alpha-3_code": "UZB",
             "Numeric": "860",
             "ISO-3166-2": "ISO-3166-2:UZ",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "240",
@@ -2434,7 +2434,7 @@
             "Alpha-3_code": "VUT",
             "Numeric": "548",
             "ISO-3166-2": "ISO-3166-2:VU",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "241",
@@ -2444,7 +2444,7 @@
             "Alpha-3_code": "VEN",
             "Numeric": "862",
             "ISO-3166-2": "ISO-3166-2:VE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "242",
@@ -2454,7 +2454,7 @@
             "Alpha-3_code": "VNM",
             "Numeric": "704",
             "ISO-3166-2": "ISO-3166-2:VN",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "243",
@@ -2464,7 +2464,7 @@
             "Alpha-3_code": "VGB",
             "Numeric": "92",
             "ISO-3166-2": "ISO-3166-2:VG",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "244",
@@ -2474,7 +2474,7 @@
             "Alpha-3_code": "VIR",
             "Numeric": "850",
             "ISO-3166-2": "ISO-3166-2:VI",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "245",
@@ -2484,7 +2484,7 @@
             "Alpha-3_code": "WLF",
             "Numeric": "876",
             "ISO-3166-2": "ISO-3166-2:WF",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "246",
@@ -2494,7 +2494,7 @@
             "Alpha-3_code": "ESH",
             "Numeric": "732",
             "ISO-3166-2": "ISO-3166-2:EH",
-            "ISO-3166_In_So": "否"
+            "ISO-3166_In_So": "false"
         },
         {
             "id": "247",
@@ -2504,7 +2504,7 @@
             "Alpha-3_code": "YEM",
             "Numeric": "887",
             "ISO-3166-2": "ISO-3166-2:YE",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "248",
@@ -2514,7 +2514,7 @@
             "Alpha-3_code": "ZMB",
             "Numeric": "894",
             "ISO-3166-2": "ISO-3166-2:ZM",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         },
         {
             "id": "249",
@@ -2524,7 +2524,7 @@
             "Alpha-3_code": "ZWE",
             "Numeric": "716",
             "ISO-3166-2": "ISO-3166-2:ZW",
-            "ISO-3166_In_So": "是"
+            "ISO-3166_In_So": "true"
         }
     ]
 }

@@ -15,7 +15,7 @@ LICENSE: [Apache License 2.0](LICENSE.md)
 - 特例：`香港/Hong Kong`、`澳门/Macao`、`西藏/Tibet`、`内蒙古/Inner Mongolia`、`西安/Xi'an`等按内置映射处理。
 
 ## 快捷跳转
-- [全球国家 ISO 3166-2 对照表](country_divisions.json)
+- [ISO 3166-2 全球国家编码对照表](country_divisions.json)
 
 - [省级行政区划(含自治区、特别行政区、直辖市、台湾省)](province.json)
 
@@ -119,6 +119,30 @@ LICENSE: [Apache License 2.0](LICENSE.md)
 - 来源：民政部区划公开数据 `http://xzqh.mca.gov.cn/map`
 
 ## 示例字段
+```
+  "country":[
+    {
+      "id": "1",
+      "zh": "阿富汗",
+      "en": "Afghanistan",
+      "Alpha-2_code": "AF",
+      "Alpha-3_code": "AFG",
+      "Numeric": "4",
+      "ISO-3166-2": "ISO-3166-2:AF",
+      "ISO-3166_In_So": "true"
+    },
+    {
+      "id": "2",
+      "zh": "奥兰",
+      "en": "Åland Islands",
+      "Alpha-2_code": "AX",
+      "Alpha-3_code": "ALA",
+      "Numeric": "248",
+      "ISO-3166-2": "ISO-3166-2:AX",
+      "ISO-3166_In_So": "false"
+    },
+  ]
+```
 ```
 {
   "counties": [
