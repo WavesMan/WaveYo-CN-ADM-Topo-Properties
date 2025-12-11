@@ -1,8 +1,8 @@
-# WaveYo 中国行政区划数据集
+# 中国行政区划数据集
 
 作者：Waves_Man（WaveYo）
 
-LICENSE:[Apache License 2.0](LICENSE.md)
+LICENSE: [Apache License 2.0](LICENSE.md)
 
 ## 数据结构
 - `province.json`：省级区划列表（`id`、`zh`、`en`）。
@@ -119,12 +119,28 @@ LICENSE:[Apache License 2.0](LICENSE.md)
 ## 示例字段
 ```
 {
-  "type": "Polygon",
-  "properties": {
-    "NAME": "瑶海区",
-    "QUHUADAIMA": "340102",
-    "FillColor": "#ee8b94",
-    "strZTValue": ""
-  }
+  "counties": [
+    {
+      "id": "110101",
+      "zh": "东城区",
+    "en": "Dongchengqu"
+    },
+  ]
+}
+```
+```
+{
+  "cities": [
+    {
+      "id": "150100",
+      "zh": "呼和浩特",
+      "en": "Huhehaote"
+    },
+    {
+      "id": "150200",
+      "zh": "包头",
+      "en": "Baotou"
+    },
+  ]
 }
 ```
