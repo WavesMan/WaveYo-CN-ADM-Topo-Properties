@@ -15,6 +15,8 @@ LICENSE: [Apache License 2.0](LICENSE.md)
 - 特例：`香港/Hong Kong`、`澳门/Macao`、`西藏/Tibet`、`内蒙古/Inner Mongolia`、`西安/Xi'an`等按内置映射处理。
 
 ## 快捷跳转
+- [全球国家 ISO 3166-2 对照表](country_divisions.json)
+
 - [省级行政区划(含自治区、特别行政区、直辖市、台湾省)](province.json)
 
 - 北京市（直辖市，无市级区划）
