@@ -1,0 +1,84 @@
+{
+    "cities": [
+        {
+            "id": "530100",
+            "zh": "昆明",
+            "en": "Kunming"
+        },
+        {
+            "id": "530300",
+            "zh": "曲靖",
+            "en": "Qujing"
+        },
+        {
+            "id": "530400",
+            "zh": "玉溪",
+            "en": "Yuxi"
+        },
+        {
+            "id": "530500",
+            "zh": "保山",
+            "en": "Baoshan"
+        },
+        {
+            "id": "530600",
+            "zh": "昭通",
+            "en": "Zhaotong"
+        },
+        {
+            "id": "530700",
+            "zh": "丽江",
+            "en": "Lijiang"
+        },
+        {
+            "id": "530800",
+            "zh": "普洱",
+            "en": "Puer"
+        },
+        {
+            "id": "530900",
+            "zh": "临沧",
+            "en": "Lincang"
+        },
+        {
+            "id": "532300",
+            "zh": "楚雄彝族自治州",
+            "en": "Chuxiongyizuzizhizhou"
+        },
+        {
+            "id": "532500",
+            "zh": "红河哈尼族彝族自治州",
+            "en": "Honghehanizuyizuzizhizhou"
+        },
+        {
+            "id": "532600",
+            "zh": "文山壮族苗族自治州",
+            "en": "Wenshanzhuangzumiaozuzizhizhou"
+        },
+        {
+            "id": "532800",
+            "zh": "西双版纳傣族自治州",
+            "en": "Xishuangbannadaizuzizhizhou"
+        },
+        {
+            "id": "532900",
+            "zh": "大理白族自治州",
+            "en": "Dalibaizuzizhizhou"
+        },
+        {
+            "id": "533100",
+            "zh": "德宏傣族景颇族自治州",
+            "en": "Dehongdaizujingpozuzizhizhou"
+        },
+        {
+            "id": "533300",
+            "zh": "怒江傈僳族自治州",
+            "en": "Nujianglisuzuzizhizhou"
+        },
+        {
+            "id": "533400",
+            "zh": "迪庆藏族自治州",
+            "en": "Diqingzangzuzizhizhou"
+        }
+    ]
+}

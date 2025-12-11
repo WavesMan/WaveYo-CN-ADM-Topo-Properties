@@ -1,0 +1,114 @@
+{
+    "counties": [
+        {
+            "id": "640104",
+            "zh": "兴庆区",
+            "en": "Xingqingqu"
+        },
+        {
+            "id": "640105",
+            "zh": "西夏区",
+            "en": "Xixiaqu"
+        },
+        {
+            "id": "640106",
+            "zh": "金凤区",
+            "en": "Jinfengqu"
+        },
+        {
+            "id": "640121",
+            "zh": "永宁县",
+            "en": "Yongningxian"
+        },
+        {
+            "id": "640122",
+            "zh": "贺兰县",
+            "en": "Helanxian"
+        },
+        {
+            "id": "640181",
+            "zh": "灵武市",
+            "en": "Lingwushi"
+        },
+        {
+            "id": "640202",
+            "zh": "大武口区",
+            "en": "Dawukouqu"
+        },
+        {
+            "id": "640205",
+            "zh": "惠农区",
+            "en": "Huinongqu"
+        },
+        {
+            "id": "640221",
+            "zh": "平罗县",
+            "en": "Pingluoxian"
+        },
+        {
+            "id": "640302",
+            "zh": "利通区",
+            "en": "Litongqu"
+        },
+        {
+            "id": "640303",
+            "zh": "红寺堡区",
+            "en": "Hongsibaoqu"
+        },
+        {
+            "id": "640323",
+            "zh": "盐池县",
+            "en": "Yanchixian"
+        },
+        {
+            "id": "640324",
+            "zh": "同心县",
+            "en": "Tongxinxian"
+        },
+        {
+            "id": "640381",
+            "zh": "青铜峡市",
+            "en": "Qingtongxiashi"
+        },
+        {
+            "id": "640402",
+            "zh": "原州区",
+            "en": "Yuanzhouqu"
+        },
+        {
+            "id": "640422",
+            "zh": "西吉县",
+            "en": "Xijixian"
+        },
+        {
+            "id": "640423",
+            "zh": "隆德县",
+            "en": "Longdexian"
+        },
+        {
+            "id": "640424",
+            "zh": "泾源县",
+            "en": "Jingyuanxian"
+        },
+        {
+            "id": "640425",
+            "zh": "彭阳县",
+            "en": "Pengyangxian"
+        },
+        {
+            "id": "640502",
+            "zh": "沙坡头区",
+            "en": "Shapotouqu"
+        },
+        {
+            "id": "640521",
+            "zh": "中宁县",
+            "en": "Zhongningxian"
+        },
+        {
+            "id": "640522",
+            "zh": "海原县",
+            "en": "Haiyuanxian"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "counties": [
+        {
+            "id": "500101",
+            "zh": "万州区",
+            "en": "Wanzhouqu"
+        },
+        {
+            "id": "500102",
+            "zh": "涪陵区",
+            "en": "Fulingqu"
+        },
+        {
+            "id": "500103",
+            "zh": "渝中区",
+            "en": "Yuzhongqu"
+        },
+        {
+            "id": "500104",
+            "zh": "大渡口区",
+            "en": "Dadukouqu"
+        },
+        {
+            "id": "500105",
+            "zh": "江北区",
+            "en": "Jiangbeiqu"
+        },
+        {
+            "id": "500106",
+            "zh": "沙坪坝区",
+            "en": "Shapingbaqu"
+        },
+        {
+            "id": "500107",
+            "zh": "九龙坡区",
+            "en": "Jiulongpoqu"
+        },
+        {
+            "id": "500108",
+            "zh": "南岸区",
+            "en": "Nananqu"
+        },
+        {
+            "id": "500109",
+            "zh": "北碚区",
+            "en": "Beibeiqu"
+        },
+        {
+            "id": "500110",
+            "zh": "綦江区",
+            "en": "Qijiangqu"
+        },
+        {
+            "id": "500111",
+            "zh": "大足区",
+            "en": "Dazuqu"
+        },
+        {
+            "id": "500112",
+            "zh": "渝北区",
+            "en": "Yubeiqu"
+        },
+        {
+            "id": "500113",
+            "zh": "巴南区",
+            "en": "Bananqu"
+        },
+        {
+            "id": "500114",
+            "zh": "黔江区",
+            "en": "Qianjiangqu"
+        },
+        {
+            "id": "500115",
+            "zh": "长寿区",
+            "en": "Changshouqu"
+        },
+        {
+            "id": "500116",
+            "zh": "江津区",
+            "en": "Jiangjinqu"
+        },
+        {
+            "id": "500117",
+            "zh": "合川区",
+            "en": "Hechuanqu"
+        },
+        {
+            "id": "500118",
+            "zh": "永川区",
+            "en": "Yongchuanqu"
+        },
+        {
+            "id": "500119",
+            "zh": "南川区",
+            "en": "Nanchuanqu"
+        },
+        {
+            "id": "500120",
+            "zh": "璧山区",
+            "en": "Bishanqu"
+        },
+        {
+            "id": "500151",
+            "zh": "铜梁区",
+            "en": "Tongliangqu"
+        },
+        {
+            "id": "500152",
+            "zh": "潼南区",
+            "en": "Tongnanqu"
+        },
+        {
+            "id": "500153",
+            "zh": "荣昌区",
+            "en": "Rongchangqu"
+        },
+        {
+            "id": "500154",
+            "zh": "开州区",
+            "en": "Kaizhouqu"
+        },
+        {
+            "id": "500155",
+            "zh": "梁平区",
+            "en": "Liangpingqu"
+        },
+        {
+            "id": "500156",
+            "zh": "武隆区",
+            "en": "Wulongqu"
+        },
+        {
+            "id": "500229",
+            "zh": "城口县",
+            "en": "Chengkouxian"
+        },
+        {
+            "id": "500230",
+            "zh": "丰都县",
+            "en": "Fengdouxian"
+        },
+        {
+            "id": "500231",
+            "zh": "垫江县",
+            "en": "Dianjiangxian"
+        },
+        {
+            "id": "500233",
+            "zh": "忠县",
+            "en": "Zhongxian"
+        },
+        {
+            "id": "500235",
+            "zh": "云阳县",
+            "en": "Yunyangxian"
+        },
+        {
+            "id": "500236",
+            "zh": "奉节县",
+            "en": "Fengjiexian"
+        },
+        {
+            "id": "500237",
+            "zh": "巫山县",
+            "en": "Wushanxian"
+        },
+        {
+            "id": "500238",
+            "zh": "巫溪县",
+            "en": "Wuxixian"
+        },
+        {
+            "id": "500240",
+            "zh": "石柱土家族自治县",
+            "en": "Shizhutujiazuzizhixian"
+        },
+        {
+            "id": "500241",
+            "zh": "秀山土家族苗族自治县",
+            "en": "Xiushantujiazumiaozuzizhixian"
+        },
+        {
+            "id": "500242",
+            "zh": "酉阳土家族苗族自治县",
+            "en": "Youyangtujiazumiaozuzizhixian"
+        },
+        {
+            "id": "500243",
+            "zh": "彭水苗族土家族自治县",
+            "en": "Pengshuimiaozutujiazuzizhixian"
+        }
+    ]
+}

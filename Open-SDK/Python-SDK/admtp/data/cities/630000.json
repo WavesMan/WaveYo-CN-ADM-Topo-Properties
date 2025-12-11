@@ -1,0 +1,44 @@
+{
+    "cities": [
+        {
+            "id": "630100",
+            "zh": "西宁",
+            "en": "Xining"
+        },
+        {
+            "id": "630200",
+            "zh": "海东",
+            "en": "Haidong"
+        },
+        {
+            "id": "632200",
+            "zh": "海北藏族自治州",
+            "en": "Haibeizangzuzizhizhou"
+        },
+        {
+            "id": "632300",
+            "zh": "黄南藏族自治州",
+            "en": "Huangnanzangzuzizhizhou"
+        },
+        {
+            "id": "632500",
+            "zh": "海南藏族自治州",
+            "en": "Hainanzangzuzizhizhou"
+        },
+        {
+            "id": "632600",
+            "zh": "果洛藏族自治州",
+            "en": "Guoluozangzuzizhizhou"
+        },
+        {
+            "id": "632700",
+            "zh": "玉树藏族自治州",
+            "en": "Yushuzangzuzizhizhou"
+        },
+        {
+            "id": "632800",
+            "zh": "海西蒙古族藏族自治州",
+            "en": "Haiximengguzuzangzuzizhizhou"
+        }
+    ]
+}

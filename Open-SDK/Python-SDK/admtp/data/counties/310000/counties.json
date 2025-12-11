@@ -1,0 +1,84 @@
+{
+    "counties": [
+        {
+            "id": "310101",
+            "zh": "黄浦区",
+            "en": "Huangpuqu"
+        },
+        {
+            "id": "310104",
+            "zh": "徐汇区",
+            "en": "Xuhuiqu"
+        },
+        {
+            "id": "310105",
+            "zh": "长宁区",
+            "en": "Zhangningqu"
+        },
+        {
+            "id": "310106",
+            "zh": "静安区",
+            "en": "Jinganqu"
+        },
+        {
+            "id": "310107",
+            "zh": "普陀区",
+            "en": "Putuoqu"
+        },
+        {
+            "id": "310109",
+            "zh": "虹口区",
+            "en": "Hongkouqu"
+        },
+        {
+            "id": "310110",
+            "zh": "杨浦区",
+            "en": "Yangpuqu"
+        },
+        {
+            "id": "310112",
+            "zh": "闵行区",
+            "en": "Minxingqu"
+        },
+        {
+            "id": "310113",
+            "zh": "宝山区",
+            "en": "Baoshanqu"
+        },
+        {
+            "id": "310114",
+            "zh": "嘉定区",
+            "en": "Jiadingqu"
+        },
+        {
+            "id": "310115",
+            "zh": "浦东新区",
+            "en": "Pudongxinqu"
+        },
+        {
+            "id": "310116",
+            "zh": "金山区",
+            "en": "Jinshanqu"
+        },
+        {
+            "id": "310117",
+            "zh": "松江区",
+            "en": "Songjiangqu"
+        },
+        {
+            "id": "310118",
+            "zh": "青浦区",
+            "en": "Qingpuqu"
+        },
+        {
+            "id": "310120",
+            "zh": "奉贤区",
+            "en": "Fengxianqu"
+        },
+        {
+            "id": "310151",
+            "zh": "崇明区",
+            "en": "Chongmingqu"
+        }
+    ]
+}

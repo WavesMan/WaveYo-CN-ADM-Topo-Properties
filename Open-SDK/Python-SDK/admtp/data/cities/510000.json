@@ -1,0 +1,109 @@
+{
+    "cities": [
+        {
+            "id": "510100",
+            "zh": "成都",
+            "en": "Chengdu"
+        },
+        {
+            "id": "510300",
+            "zh": "自贡",
+            "en": "Zigong"
+        },
+        {
+            "id": "510400",
+            "zh": "攀枝花",
+            "en": "Panzhihua"
+        },
+        {
+            "id": "510500",
+            "zh": "泸州",
+            "en": "Luzhou"
+        },
+        {
+            "id": "510600",
+            "zh": "德阳",
+            "en": "Deyang"
+        },
+        {
+            "id": "510700",
+            "zh": "绵阳",
+            "en": "Mianyang"
+        },
+        {
+            "id": "510800",
+            "zh": "广元",
+            "en": "Guangyuan"
+        },
+        {
+            "id": "510900",
+            "zh": "遂宁",
+            "en": "Suining"
+        },
+        {
+            "id": "511000",
+            "zh": "内江",
+            "en": "Neijiang"
+        },
+        {
+            "id": "511100",
+            "zh": "乐山",
+            "en": "Leshan"
+        },
+        {
+            "id": "511300",
+            "zh": "南充",
+            "en": "Nanchong"
+        },
+        {
+            "id": "511400",
+            "zh": "眉山",
+            "en": "Meishan"
+        },
+        {
+            "id": "511500",
+            "zh": "宜宾",
+            "en": "Yibin"
+        },
+        {
+            "id": "511600",
+            "zh": "广安",
+            "en": "Guangan"
+        },
+        {
+            "id": "511700",
+            "zh": "达州",
+            "en": "Dazhou"
+        },
+        {
+            "id": "511800",
+            "zh": "雅安",
+            "en": "Yaan"
+        },
+        {
+            "id": "511900",
+            "zh": "巴中",
+            "en": "Bazhong"
+        },
+        {
+            "id": "512000",
+            "zh": "资阳",
+            "en": "Ziyang"
+        },
+        {
+            "id": "513200",
+            "zh": "阿坝藏族羌族自治州",
+            "en": "Abazangzuqiangzuzizhizhou"
+        },
+        {
+            "id": "513300",
+            "zh": "甘孜藏族自治州",
+            "en": "Ganzizangzuzizhizhou"
+        },
+        {
+            "id": "513400",
+            "zh": "凉山彝族自治州",
+            "en": "Liangshanyizuzizhizhou"
+        }
+    ]
+}

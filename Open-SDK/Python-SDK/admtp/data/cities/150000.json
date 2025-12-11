@@ -1,0 +1,64 @@
+{
+    "cities": [
+        {
+            "id": "150100",
+            "zh": "呼和浩特",
+            "en": "Huhehaote"
+        },
+        {
+            "id": "150200",
+            "zh": "包头",
+            "en": "Baotou"
+        },
+        {
+            "id": "150300",
+            "zh": "乌海",
+            "en": "Wuhai"
+        },
+        {
+            "id": "150400",
+            "zh": "赤峰",
+            "en": "Chifeng"
+        },
+        {
+            "id": "150500",
+            "zh": "通辽",
+            "en": "Tongliao"
+        },
+        {
+            "id": "150600",
+            "zh": "鄂尔多斯",
+            "en": "Eerduosi"
+        },
+        {
+            "id": "150700",
+            "zh": "呼伦贝尔",
+            "en": "Hulunbeier"
+        },
+        {
+            "id": "150800",
+            "zh": "巴彦淖尔",
+            "en": "Bayannaoer"
+        },
+        {
+            "id": "150900",
+            "zh": "乌兰察布",
+            "en": "Wulanchabu"
+        },
+        {
+            "id": "152200",
+            "zh": "兴安盟",
+            "en": "Xinganmeng"
+        },
+        {
+            "id": "152500",
+            "zh": "锡林郭勒盟",
+            "en": "Xilinguoleimeng"
+        },
+        {
+            "id": "152900",
+            "zh": "阿拉善盟",
+            "en": "Alashanmeng"
+        }
+    ]
+}

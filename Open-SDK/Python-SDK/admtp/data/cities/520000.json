@@ -1,0 +1,49 @@
+{
+    "cities": [
+        {
+            "id": "520100",
+            "zh": "贵阳",
+            "en": "Guiyang"
+        },
+        {
+            "id": "520200",
+            "zh": "六盘水",
+            "en": "Liupanshui"
+        },
+        {
+            "id": "520300",
+            "zh": "遵义",
+            "en": "Zunyi"
+        },
+        {
+            "id": "520400",
+            "zh": "安顺",
+            "en": "Anshun"
+        },
+        {
+            "id": "520500",
+            "zh": "毕节",
+            "en": "Bijie"
+        },
+        {
+            "id": "520600",
+            "zh": "铜仁",
+            "en": "Tongren"
+        },
+        {
+            "id": "522300",
+            "zh": "黔西南布依族苗族自治州",
+            "en": "Qianxinanbuyizumiaozuzizhizhou"
+        },
+        {
+            "id": "522600",
+            "zh": "黔东南苗族侗族自治州",
+            "en": "Qiandongnanmiaozudongzuzizhizhou"
+        },
+        {
+            "id": "522700",
+            "zh": "黔南布依族苗族自治州",
+            "en": "Qiannanbuyizumiaozuzizhizhou"
+        }
+    ]
+}

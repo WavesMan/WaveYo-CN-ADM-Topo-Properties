@@ -14,6 +14,9 @@ LICENSE: [Apache License 2.0](LICENSE.md)
 - 英文：基于拼音首字母大写；若以`shi`结尾则移除，例如“Shijiazhuangshi”→“Shijiazhuang”。
 - 特例：`香港/Hong Kong`、`澳门/Macao`、`西藏/Tibet`、`内蒙古/Inner Mongolia`、`西安/Xi'an`等按内置映射处理。
 
+## SDK接入
+### Python SDK [admtp](Open-SDK/Python-SDK/admtp/README.md)
+
 ## 快捷跳转
 - [ISO 3166-2 全球国家编码对照表](country_divisions.json)
 

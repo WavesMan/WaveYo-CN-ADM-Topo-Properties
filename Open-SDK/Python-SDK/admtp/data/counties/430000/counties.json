@@ -1,0 +1,614 @@
+{
+    "counties": [
+        {
+            "id": "430102",
+            "zh": "芙蓉区",
+            "en": "Furongqu"
+        },
+        {
+            "id": "430103",
+            "zh": "天心区",
+            "en": "Tianxinqu"
+        },
+        {
+            "id": "430104",
+            "zh": "岳麓区",
+            "en": "Yueluqu"
+        },
+        {
+            "id": "430105",
+            "zh": "开福区",
+            "en": "Kaifuqu"
+        },
+        {
+            "id": "430111",
+            "zh": "雨花区",
+            "en": "Yuhuaqu"
+        },
+        {
+            "id": "430112",
+            "zh": "望城区",
+            "en": "Wangchengqu"
+        },
+        {
+            "id": "430121",
+            "zh": "长沙县",
+            "en": "Changshaxian"
+        },
+        {
+            "id": "430181",
+            "zh": "浏阳市",
+            "en": "Liuyangshi"
+        },
+        {
+            "id": "430182",
+            "zh": "宁乡市",
+            "en": "Ningxiangshi"
+        },
+        {
+            "id": "430202",
+            "zh": "荷塘区",
+            "en": "Hetangqu"
+        },
+        {
+            "id": "430203",
+            "zh": "芦淞区",
+            "en": "Lusongqu"
+        },
+        {
+            "id": "430204",
+            "zh": "石峰区",
+            "en": "Shifengqu"
+        },
+        {
+            "id": "430211",
+            "zh": "天元区",
+            "en": "Tianyuanqu"
+        },
+        {
+            "id": "430212",
+            "zh": "渌口区",
+            "en": "Lukouqu"
+        },
+        {
+            "id": "430223",
+            "zh": "攸县",
+            "en": "Youxian"
+        },
+        {
+            "id": "430224",
+            "zh": "茶陵县",
+            "en": "Chalingxian"
+        },
+        {
+            "id": "430225",
+            "zh": "炎陵县",
+            "en": "Yanlingxian"
+        },
+        {
+            "id": "430281",
+            "zh": "醴陵市",
+            "en": "Lilingshi"
+        },
+        {
+            "id": "430302",
+            "zh": "雨湖区",
+            "en": "Yuhuqu"
+        },
+        {
+            "id": "430304",
+            "zh": "岳塘区",
+            "en": "Yuetangqu"
+        },
+        {
+            "id": "430321",
+            "zh": "湘潭县",
+            "en": "Xiangtanxian"
+        },
+        {
+            "id": "430381",
+            "zh": "湘乡市",
+            "en": "Xiangxiangshi"
+        },
+        {
+            "id": "430382",
+            "zh": "韶山市",
+            "en": "Shaoshanshi"
+        },
+        {
+            "id": "430405",
+            "zh": "珠晖区",
+            "en": "Zhuhuiqu"
+        },
+        {
+            "id": "430406",
+            "zh": "雁峰区",
+            "en": "Yanfengqu"
+        },
+        {
+            "id": "430407",
+            "zh": "石鼓区",
+            "en": "Shiguqu"
+        },
+        {
+            "id": "430408",
+            "zh": "蒸湘区",
+            "en": "Zhengxiangqu"
+        },
+        {
+            "id": "430412",
+            "zh": "南岳区",
+            "en": "Nanyuequ"
+        },
+        {
+            "id": "430421",
+            "zh": "衡阳县",
+            "en": "Hengyangxian"
+        },
+        {
+            "id": "430422",
+            "zh": "衡南县",
+            "en": "Hengnanxian"
+        },
+        {
+            "id": "430423",
+            "zh": "衡山县",
+            "en": "Hengshanxian"
+        },
+        {
+            "id": "430424",
+            "zh": "衡东县",
+            "en": "Hengdongxian"
+        },
+        {
+            "id": "430426",
+            "zh": "祁东县",
+            "en": "Qidongxian"
+        },
+        {
+            "id": "430481",
+            "zh": "耒阳市",
+            "en": "Leiyangshi"
+        },
+        {
+            "id": "430482",
+            "zh": "常宁市",
+            "en": "Changningshi"
+        },
+        {
+            "id": "430502",
+            "zh": "双清区",
+            "en": "Shuangqingqu"
+        },
+        {
+            "id": "430503",
+            "zh": "大祥区",
+            "en": "Daxiangqu"
+        },
+        {
+            "id": "430511",
+            "zh": "北塔区",
+            "en": "Beitaqu"
+        },
+        {
+            "id": "430522",
+            "zh": "新邵县",
+            "en": "Xinshaoxian"
+        },
+        {
+            "id": "430523",
+            "zh": "邵阳县",
+            "en": "Shaoyangxian"
+        },
+        {
+            "id": "430524",
+            "zh": "隆回县",
+            "en": "Longhuixian"
+        },
+        {
+            "id": "430525",
+            "zh": "洞口县",
+            "en": "Dongkouxian"
+        },
+        {
+            "id": "430527",
+            "zh": "绥宁县",
+            "en": "Suiningxian"
+        },
+        {
+            "id": "430528",
+            "zh": "新宁县",
+            "en": "Xinningxian"
+        },
+        {
+            "id": "430529",
+            "zh": "城步苗族自治县",
+            "en": "Chengbumiaozuzizhixian"
+        },
+        {
+            "id": "430581",
+            "zh": "武冈市",
+            "en": "Wugangshi"
+        },
+        {
+            "id": "430582",
+            "zh": "邵东市",
+            "en": "Shaodongshi"
+        },
+        {
+            "id": "430602",
+            "zh": "岳阳楼区",
+            "en": "Yueyanglouqu"
+        },
+        {
+            "id": "430603",
+            "zh": "云溪区",
+            "en": "Yunxiqu"
+        },
+        {
+            "id": "430611",
+            "zh": "君山区",
+            "en": "Junshanqu"
+        },
+        {
+            "id": "430621",
+            "zh": "岳阳县",
+            "en": "Yueyangxian"
+        },
+        {
+            "id": "430623",
+            "zh": "华容县",
+            "en": "Huarongxian"
+        },
+        {
+            "id": "430624",
+            "zh": "湘阴县",
+            "en": "Xiangyinxian"
+        },
+        {
+            "id": "430626",
+            "zh": "平江县",
+            "en": "Pingjiangxian"
+        },
+        {
+            "id": "430681",
+            "zh": "汨罗市",
+            "en": "Miluoshi"
+        },
+        {
+            "id": "430682",
+            "zh": "临湘市",
+            "en": "Linxiangshi"
+        },
+        {
+            "id": "430702",
+            "zh": "武陵区",
+            "en": "Wulingqu"
+        },
+        {
+            "id": "430703",
+            "zh": "鼎城区",
+            "en": "Dingchengqu"
+        },
+        {
+            "id": "430721",
+            "zh": "安乡县",
+            "en": "Anxiangxian"
+        },
+        {
+            "id": "430722",
+            "zh": "汉寿县",
+            "en": "Hanshouxian"
+        },
+        {
+            "id": "430723",
+            "zh": "澧县",
+            "en": "Lixian"
+        },
+        {
+            "id": "430724",
+            "zh": "临澧县",
+            "en": "Linlixian"
+        },
+        {
+            "id": "430725",
+            "zh": "桃源县",
+            "en": "Taoyuanxian"
+        },
+        {
+            "id": "430726",
+            "zh": "石门县",
+            "en": "Shimenxian"
+        },
+        {
+            "id": "430781",
+            "zh": "津市市",
+            "en": "Jinshishi"
+        },
+        {
+            "id": "430802",
+            "zh": "永定区",
+            "en": "Yongdingqu"
+        },
+        {
+            "id": "430811",
+            "zh": "武陵源区",
+            "en": "Wulingyuanqu"
+        },
+        {
+            "id": "430821",
+            "zh": "慈利县",
+            "en": "Cilixian"
+        },
+        {
+            "id": "430822",
+            "zh": "桑植县",
+            "en": "Sangzhixian"
+        },
+        {
+            "id": "430902",
+            "zh": "资阳区",
+            "en": "Ziyangqu"
+        },
+        {
+            "id": "430903",
+            "zh": "赫山区",
+            "en": "Heshanqu"
+        },
+        {
+            "id": "430921",
+            "zh": "南县",
+            "en": "Nanxian"
+        },
+        {
+            "id": "430922",
+            "zh": "桃江县",
+            "en": "Taojiangxian"
+        },
+        {
+            "id": "430923",
+            "zh": "安化县",
+            "en": "Anhuaxian"
+        },
+        {
+            "id": "430981",
+            "zh": "沅江市",
+            "en": "Yuanjiangshi"
+        },
+        {
+            "id": "431002",
+            "zh": "北湖区",
+            "en": "Beihuqu"
+        },
+        {
+            "id": "431003",
+            "zh": "苏仙区",
+            "en": "Suxianqu"
+        },
+        {
+            "id": "431021",
+            "zh": "桂阳县",
+            "en": "Guiyangxian"
+        },
+        {
+            "id": "431022",
+            "zh": "宜章县",
+            "en": "Yizhangxian"
+        },
+        {
+            "id": "431023",
+            "zh": "永兴县",
+            "en": "Yongxingxian"
+        },
+        {
+            "id": "431024",
+            "zh": "嘉禾县",
+            "en": "Jiahexian"
+        },
+        {
+            "id": "431025",
+            "zh": "临武县",
+            "en": "Linwuxian"
+        },
+        {
+            "id": "431026",
+            "zh": "汝城县",
+            "en": "Ruchengxian"
+        },
+        {
+            "id": "431027",
+            "zh": "桂东县",
+            "en": "Guidongxian"
+        },
+        {
+            "id": "431028",
+            "zh": "安仁县",
+            "en": "Anrenxian"
+        },
+        {
+            "id": "431081",
+            "zh": "资兴市",
+            "en": "Zixingshi"
+        },
+        {
+            "id": "431102",
+            "zh": "零陵区",
+            "en": "Linglingqu"
+        },
+        {
+            "id": "431103",
+            "zh": "冷水滩区",
+            "en": "Lengshuitanqu"
+        },
+        {
+            "id": "431122",
+            "zh": "东安县",
+            "en": "Donganxian"
+        },
+        {
+            "id": "431123",
+            "zh": "双牌县",
+            "en": "Shuangpaixian"
+        },
+        {
+            "id": "431124",
+            "zh": "道县",
+            "en": "Daoxian"
+        },
+        {
+            "id": "431125",
+            "zh": "江永县",
+            "en": "Jiangyongxian"
+        },
+        {
+            "id": "431126",
+            "zh": "宁远县",
+            "en": "Ningyuanxian"
+        },
+        {
+            "id": "431127",
+            "zh": "蓝山县",
+            "en": "Lanshanxian"
+        },
+        {
+            "id": "431128",
+            "zh": "新田县",
+            "en": "Xintianxian"
+        },
+        {
+            "id": "431129",
+            "zh": "江华瑶族自治县",
+            "en": "Jianghuayaozuzizhixian"
+        },
+        {
+            "id": "431181",
+            "zh": "祁阳市",
+            "en": "Qiyangshi"
+        },
+        {
+            "id": "431202",
+            "zh": "鹤城区",
+            "en": "Hechengqu"
+        },
+        {
+            "id": "431221",
+            "zh": "中方县",
+            "en": "Zhongfangxian"
+        },
+        {
+            "id": "431222",
+            "zh": "沅陵县",
+            "en": "Yuanlingxian"
+        },
+        {
+            "id": "431223",
+            "zh": "辰溪县",
+            "en": "Chenxixian"
+        },
+        {
+            "id": "431224",
+            "zh": "溆浦县",
+            "en": "Xupuxian"
+        },
+        {
+            "id": "431225",
+            "zh": "会同县",
+            "en": "Huitongxian"
+        },
+        {
+            "id": "431226",
+            "zh": "麻阳苗族自治县",
+            "en": "Mayangmiaozuzizhixian"
+        },
+        {
+            "id": "431227",
+            "zh": "新晃侗族自治县",
+            "en": "Xinhuangdongzuzizhixian"
+        },
+        {
+            "id": "431228",
+            "zh": "芷江侗族自治县",
+            "en": "Zhijiangdongzuzizhixian"
+        },
+        {
+            "id": "431229",
+            "zh": "靖州苗族侗族自治县",
+            "en": "Jingzhoumiaozudongzuzizhixian"
+        },
+        {
+            "id": "431230",
+            "zh": "通道侗族自治县",
+            "en": "Tongdaodongzuzizhixian"
+        },
+        {
+            "id": "431281",
+            "zh": "洪江市",
+            "en": "Hongjiangshi"
+        },
+        {
+            "id": "431302",
+            "zh": "娄星区",
+            "en": "Louxingqu"
+        },
+        {
+            "id": "431321",
+            "zh": "双峰县",
+            "en": "Shuangfengxian"
+        },
+        {
+            "id": "431322",
+            "zh": "新化县",
+            "en": "Xinhuaxian"
+        },
+        {
+            "id": "431381",
+            "zh": "冷水江市",
+            "en": "Lengshuijiangshi"
+        },
+        {
+            "id": "431382",
+            "zh": "涟源市",
+            "en": "Lianyuanshi"
+        },
+        {
+            "id": "433101",
+            "zh": "吉首市",
+            "en": "Jishoushi"
+        },
+        {
+            "id": "433122",
+            "zh": "泸溪县",
+            "en": "Luxixian"
+        },
+        {
+            "id": "433123",
+            "zh": "凤凰县",
+            "en": "Fenghuangxian"
+        },
+        {
+            "id": "433124",
+            "zh": "花垣县",
+            "en": "Huayuanxian"
+        },
+        {
+            "id": "433125",
+            "zh": "保靖县",
+            "en": "Baojingxian"
+        },
+        {
+            "id": "433126",
+            "zh": "古丈县",
+            "en": "Guzhangxian"
+        },
+        {
+            "id": "433127",
+            "zh": "永顺县",
+            "en": "Yongshunxian"
+        },
+        {
+            "id": "433130",
+            "zh": "龙山县",
+            "en": "Longshanxian"
+        }
+    ]
+}
