@@ -1,0 +1,84 @@
+{
+    "counties": [
+        {
+            "id": "110101",
+            "zh": "东城区",
+            "en": "Dongchengqu"
+        },
+        {
+            "id": "110102",
+            "zh": "西城区",
+            "en": "Xichengqu"
+        },
+        {
+            "id": "110105",
+            "zh": "朝阳区",
+            "en": "Chaoyangqu"
+        },
+        {
+            "id": "110106",
+            "zh": "丰台区",
+            "en": "Fengtaiqu"
+        },
+        {
+            "id": "110107",
+            "zh": "石景山区",
+            "en": "Shijingshanqu"
+        },
+        {
+            "id": "110108",
+            "zh": "海淀区",
+            "en": "Haidianqu"
+        },
+        {
+            "id": "110109",
+            "zh": "门头沟区",
+            "en": "Mentougouqu"
+        },
+        {
+            "id": "110111",
+            "zh": "房山区",
+            "en": "Fangshanqu"
+        },
+        {
+            "id": "110112",
+            "zh": "通州区",
+            "en": "Tongzhouqu"
+        },
+        {
+            "id": "110113",
+            "zh": "顺义区",
+            "en": "Shunyiqu"
+        },
+        {
+            "id": "110114",
+            "zh": "昌平区",
+            "en": "Changpingqu"
+        },
+        {
+            "id": "110115",
+            "zh": "大兴区",
+            "en": "Daxingqu"
+        },
+        {
+            "id": "110116",
+            "zh": "怀柔区",
+            "en": "Huairouqu"
+        },
+        {
+            "id": "110117",
+            "zh": "平谷区",
+            "en": "Pingguqu"
+        },
+        {
+            "id": "110118",
+            "zh": "密云区",
+            "en": "Miyunqu"
+        },
+        {
+            "id": "110119",
+            "zh": "延庆区",
+            "en": "Yanqingqu"
+        }
+    ]
+}

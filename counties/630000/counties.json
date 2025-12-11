@@ -1,0 +1,229 @@
+{
+    "counties": [
+        {
+            "id": "630102",
+            "zh": "城东区",
+            "en": "Chengdongqu"
+        },
+        {
+            "id": "630103",
+            "zh": "城中区",
+            "en": "Chengzhongqu"
+        },
+        {
+            "id": "630104",
+            "zh": "城西区",
+            "en": "Chengxiqu"
+        },
+        {
+            "id": "630105",
+            "zh": "城北区",
+            "en": "Chengbeiqu"
+        },
+        {
+            "id": "630106",
+            "zh": "湟中区",
+            "en": "Huangzhongqu"
+        },
+        {
+            "id": "630121",
+            "zh": "大通回族土族自治县",
+            "en": "Datonghuizutuzuzizhixian"
+        },
+        {
+            "id": "630123",
+            "zh": "湟源县",
+            "en": "Huangyuanxian"
+        },
+        {
+            "id": "630202",
+            "zh": "乐都区",
+            "en": "Leduqu"
+        },
+        {
+            "id": "630203",
+            "zh": "平安区",
+            "en": "Pinganqu"
+        },
+        {
+            "id": "630222",
+            "zh": "民和回族土族自治县",
+            "en": "Minhehuizutuzuzizhixian"
+        },
+        {
+            "id": "630223",
+            "zh": "互助土族自治县",
+            "en": "Huzhutuzuzizhixian"
+        },
+        {
+            "id": "630224",
+            "zh": "化隆回族自治县",
+            "en": "Hualonghuizuzizhixian"
+        },
+        {
+            "id": "630225",
+            "zh": "循化撒拉族自治县",
+            "en": "Xunhuasalazuzizhixian"
+        },
+        {
+            "id": "632221",
+            "zh": "门源回族自治县",
+            "en": "Menyuanhuizuzizhixian"
+        },
+        {
+            "id": "632222",
+            "zh": "祁连县",
+            "en": "Qilianxian"
+        },
+        {
+            "id": "632223",
+            "zh": "海晏县",
+            "en": "Haiyanxian"
+        },
+        {
+            "id": "632224",
+            "zh": "刚察县",
+            "en": "Gangchaxian"
+        },
+        {
+            "id": "632301",
+            "zh": "同仁市",
+            "en": "Tongrenshi"
+        },
+        {
+            "id": "632322",
+            "zh": "尖扎县",
+            "en": "Jianzhaxian"
+        },
+        {
+            "id": "632323",
+            "zh": "泽库县",
+            "en": "Zekuxian"
+        },
+        {
+            "id": "632324",
+            "zh": "河南蒙古族自治县",
+            "en": "Henanmengguzuzizhixian"
+        },
+        {
+            "id": "632521",
+            "zh": "共和县",
+            "en": "Gonghexian"
+        },
+        {
+            "id": "632522",
+            "zh": "同德县",
+            "en": "Tongdexian"
+        },
+        {
+            "id": "632523",
+            "zh": "贵德县",
+            "en": "Guidexian"
+        },
+        {
+            "id": "632524",
+            "zh": "兴海县",
+            "en": "Xinghaixian"
+        },
+        {
+            "id": "632525",
+            "zh": "贵南县",
+            "en": "Guinanxian"
+        },
+        {
+            "id": "632621",
+            "zh": "玛沁县",
+            "en": "Maqinxian"
+        },
+        {
+            "id": "632622",
+            "zh": "班玛县",
+            "en": "Banmaxian"
+        },
+        {
+            "id": "632623",
+            "zh": "甘德县",
+            "en": "Gandexian"
+        },
+        {
+            "id": "632624",
+            "zh": "达日县",
+            "en": "Darixian"
+        },
+        {
+            "id": "632625",
+            "zh": "久治县",
+            "en": "Jiuzhixian"
+        },
+        {
+            "id": "632626",
+            "zh": "玛多县",
+            "en": "Maduoxian"
+        },
+        {
+            "id": "632701",
+            "zh": "玉树市",
+            "en": "Yushushi"
+        },
+        {
+            "id": "632722",
+            "zh": "杂多县",
+            "en": "Zaduoxian"
+        },
+        {
+            "id": "632723",
+            "zh": "称多县",
+            "en": "Chengduoxian"
+        },
+        {
+            "id": "632724",
+            "zh": "治多县",
+            "en": "Zhiduoxian"
+        },
+        {
+            "id": "632725",
+            "zh": "囊谦县",
+            "en": "Nangqianxian"
+        },
+        {
+            "id": "632726",
+            "zh": "曲麻莱县",
+            "en": "Qumalaixian"
+        },
+        {
+            "id": "632801",
+            "zh": "格尔木市",
+            "en": "Geermushi"
+        },
+        {
+            "id": "632802",
+            "zh": "德令哈市",
+            "en": "Delinghashi"
+        },
+        {
+            "id": "632803",
+            "zh": "茫崖市",
+            "en": "Mangyashi"
+        },
+        {
+            "id": "632821",
+            "zh": "乌兰县",
+            "en": "Wulanxian"
+        },
+        {
+            "id": "632822",
+            "zh": "都兰县",
+            "en": "Doulanxian"
+        },
+        {
+            "id": "632823",
+            "zh": "天峻县",
+            "en": "Tianjunxian"
+        },
+        {
+            "id": "632899",
+            "zh": "自治州直辖",
+            "en": "Zizhizhouzhixia"
+        }
+    ]
+}
